@@ -21,5 +21,21 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 228. Summary Ranges](src/Intervals/228_Summary_Ranges.py)
 - [No 452. Minimum Number of Arrows to Burst Balloons](src/Intervals/452_Minimum_Number_of_Arrows_to_Burst_Balloons.py)
 
+### Binary Search Tree
+- [No 98. Validate Binary Search Tree](src/Binary_Search_Tree/98_Validate_Binary_Search_Tree.py)
+- [No 230. kth Smallest Element in a BST](src/Binary_Search_Tree/230_Kth_Smallest_Element_in_a_BST.py)
+- [No 530. Minimum Absolute Difference in BST](src/Binary_Search_Tree/530_Minimum_Absolute_Difference_in_BST.py)
 
+### Two Pointer
+- [No 11. Container With Most Water](src/Two_Pointer/11_Container_With_Most_Water.py)
+- [No 15. 3Sum](src/Two_Pointer/15_3Sum.py)
+- [No 125. Valid Palindrome](src/Two_Pointer/125_Valid_Palindrome.py)
+- [No 392. Is Subsequence](src/Two_Pointer/392_Is_Subsequence.py)
 
+### Bit Manipulation
+- [No 67. Add Binary](src/Bit_Manipulation/67_Add_Binary.py)
+- [No 136. Single Number](src/Bit_Manipulation/136_Single_Number.py)
+- [No 137. Single Number II](src/Bit_Manipulation/137_Single_Number_II.py)
+- [No 190. Reverse Bits](src/Bit_Manipulation/190_Reverse_Bits.py)
+- [No 191. Number of 1 Bits](src/Bit_Manipulation/191_Number_of_1_Bits.py)
+- [No. 201 Bitwise AND of Numbers Range](src/Bit_Manipulation/201_Bitwise_AND_of_Numbers_Range.py)
