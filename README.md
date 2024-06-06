@@ -42,4 +42,4 @@ This is all the code I wrote on LeetCode with the title as the filename.
 
 ### Divide and Conquer
 
--[No. 53 Maximim Subarray](src/Divide_and_Conquer/53_Maximum_Subarray.py)
+- [No. 53 Maximim Subarray](src/Divide_and_Conquer/53_Maximum_Subarray.py)
