@@ -39,3 +39,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 190. Reverse Bits](src/Bit_Manipulation/190_Reverse_Bits.py)
 - [No 191. Number of 1 Bits](src/Bit_Manipulation/191_Number_of_1_Bits.py)
 - [No. 201 Bitwise AND of Numbers Range](src/Bit_Manipulation/201_Bitwise_AND_of_Numbers_Range.py)
+
+### Divide and Conquer
+
+-[No. 53 Maximim Subarray](src/Divide_and_Conquer/53_Maximum_Subarray.py)
