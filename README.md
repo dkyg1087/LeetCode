@@ -50,3 +50,6 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 103. Binary Tree Zigzag Level Order Traversal](src/Breadth_First_Search/103_Binary_Tree_Zigzag_Level_Order_Traversal)
 - [No 199. Binary Tree Right Side View](src/Breadth_First_Search/199_Binary_Tree_Right_Side_View.py)
 - [No 637. Average of Levels in Binary Tree](src/Breadth_First_Search/637_Average_of_Levels_in_Binary_Tree.py)
+
+### Stack
+- [No 20. Valid Parentheses](src/Stack/20_Valid_Parentheses.py)
