@@ -54,3 +54,4 @@ This is all the code I wrote on LeetCode with the title as the filename.
 ### Stack
 - [No 20. Valid Parentheses](src/Stack/20_Valid_Parentheses.py)
 - [No 71. Simplify Path](src/Stack/71_Simplify_Path.py)
+- [No 155. Min Stack](src/Stack/155_Min_Stack.py)
