@@ -56,3 +56,6 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 71. Simplify Path](src/Stack/71_Simplify_Path.py)
 - [No 150. Evaluate Reverse Polish Notation](src/Stack/150_Evaluate_Reverse_Polish_Notation.py)
 - [No 155. Min Stack](src/Stack/155_Min_Stack.py)
+
+### Linked List
+- [No 141. Linked List Cycle](src/Linked_List/141_Linked_List_Cycle.py)
