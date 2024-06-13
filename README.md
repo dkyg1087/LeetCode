@@ -59,4 +59,5 @@ This is all the code I wrote on LeetCode with the title as the filename.
 
 ### Linked List
 - [No 2. Add Two Numbers](src/Linked_List/2_Add_Two_Numbers.py)
+- [No 138. Copy List with Random Pointer](src/Linked_List/138_Copy_List_with_Random_Pointer.py)
 - [No 141. Linked List Cycle](src/Linked_List/141_Linked_List_Cycle.py)
