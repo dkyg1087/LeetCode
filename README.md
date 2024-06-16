@@ -60,6 +60,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 ### Linked List
 - [No 2. Add Two Numbers](src/Linked_List/2_Add_Two_Numbers.py)
 - [No 19. Remove Nth Node From End of List](src/Linked_List/19_Remove_Nth_Node_From_End_of_List.py)
+- [No 82. Remove Duplicates from Sorted List II](src/Linked_List/82_Remove_Duplicates_from_Sorted_List_II.py)
 - [No 92. Reverse Linked List](src/Linked_List/92_Reverse_Linked_List_II.py)
 - [No 138. Copy List with Random Pointer](src/Linked_List/138_Copy_List_with_Random_Pointer.py)
 - [No 141. Linked List Cycle](src/Linked_List/141_Linked_List_Cycle.py)
