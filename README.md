@@ -66,3 +66,4 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 92. Reverse Linked List](src/Linked_List/92_Reverse_Linked_List_II.py)
 - [No 138. Copy List with Random Pointer](src/Linked_List/138_Copy_List_with_Random_Pointer.py)
 - [No 141. Linked List Cycle](src/Linked_List/141_Linked_List_Cycle.py)
+- [No 146. LRU Cache](src/Linked_List/146_LRU_Cache.py)
