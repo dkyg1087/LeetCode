@@ -60,6 +60,8 @@ This is all the code I wrote on LeetCode with the title as the filename.
 ### Linked List
 - [No 2. Add Two Numbers](src/Linked_List/2_Add_Two_Numbers.py)
 - [No 19. Remove Nth Node From End of List](src/Linked_List/19_Remove_Nth_Node_From_End_of_List.py)
+- [No 21. Merge Two Sorted Lists](src/Linked_List/21_Merge_Two_Sorted_Lists.py)
+- [No 25. Reverse Nodes in k-Group](src/Linked_List/25_Reverse_Nodes_in_k-Group.py)
 - [No 61. Rotate List](src/Linked_List/61_Rotate_List.py)
 - [No 82. Remove Duplicates from Sorted List II](src/Linked_List/82_Remove_Duplicates_from_Sorted_List_II.py)
 - [No 86. Partition List](src/Linked_List/86_Partition_List.py)
