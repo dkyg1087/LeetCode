@@ -47,7 +47,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 
 ### Breadth First Search
 - [No 102. Binary Tree Level Order Traversal](src/Breadth_First_Search/102_Binary_Tree_Level_Order_Traversal.py)
-- [No 103. Binary Tree Zigzag Level Order Traversal](src/Breadth_First_Search/103_Binary_Tree_Zigzag_Level_Order_Traversal)
+- [No 103. Binary Tree Zigzag Level Order Traversal](src/Breadth_First_Search/103_Binary_Tree_Zigzag_Level_Order_Traversal.py)
 - [No 199. Binary Tree Right Side View](src/Breadth_First_Search/199_Binary_Tree_Right_Side_View.py)
 - [No 637. Average of Levels in Binary Tree](src/Breadth_First_Search/637_Average_of_Levels_in_Binary_Tree.py)
 
