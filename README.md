@@ -71,4 +71,5 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 146. LRU Cache](src/Linked_List/146_LRU_Cache.py)
 
 ### Binary Tree
+- [No 100. Same Tree](src/Binary_Tree/100_Same_Tree.py)
 - [No 104. Maximum Depth of Binary Tree](src/Binary_Tree/104_Maximum_Depth_of_Binary_Tree.py)
