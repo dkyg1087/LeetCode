@@ -69,3 +69,6 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 138. Copy List with Random Pointer](src/Linked_List/138_Copy_List_with_Random_Pointer.py)
 - [No 141. Linked List Cycle](src/Linked_List/141_Linked_List_Cycle.py)
 - [No 146. LRU Cache](src/Linked_List/146_LRU_Cache.py)
+
+### Binary Tree
+- [No 104. Maximum Depth of Binary Tree](src/Binary_Tree/104_Maximum_Depth_of_Binary_Tree.py)
