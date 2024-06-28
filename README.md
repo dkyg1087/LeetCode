@@ -72,5 +72,6 @@ This is all the code I wrote on LeetCode with the title as the filename.
 
 ### Binary Tree
 - [No 100. Same Tree](src/Binary_Tree/100_Same_Tree.py)
+- [No 101. Symmetric Tree](src/Binary_Tree/101_Symmetric_Tree.py)
 - [No 104. Maximum Depth of Binary Tree](src/Binary_Tree/104_Maximum_Depth_of_Binary_Tree.py)
 - [No 226. Invert Binary Tree](src/Binary_Tree/226_Invert_Binary_Tree.py)
