@@ -83,6 +83,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 
 
 ### Math
+- [No 9. Palindrome Number](src/Math/9_Palindrome_Number.py)
 - [No 66. Plus One](src/Math/66_Plus_One.py)
 
 
