@@ -87,5 +87,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 66. Plus One](src/Math/66_Plus_One.py)
 - [No 69. Sqrt(x)](src/Math/69_Sqrt(x).py)
 
-
-108. Convert Sorted Array to Binary Search Tree
+### Matrix
+- [No 36. Valid Sudoku](src/Matrix/36_Valid_Sudoku.py)
+- [No 54. Spiral Matrix](src/Matrix/54_Spiral_Matrix.py)
+- [No 289. Game of Life](src/Matrix/289_Game_of_Life.py)
