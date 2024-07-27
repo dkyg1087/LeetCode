@@ -98,4 +98,5 @@ This is all the code I wrote on LeetCode with the title as the filename.
 
 ### Backtracking
 - [No 17. Letter Combinations of a Phone Number](src/Backtracking/17_Letter_Combinations_of_a_Phone_Number.py)
+- [No 46. Permutations](src/Backtracking/46_Permutations.py)
 - [No 77. Combinations](src/Backtracking/77_Combinations.py)
