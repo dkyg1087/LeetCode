@@ -102,8 +102,8 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 17. Letter Combinations of a Phone Number](src/Backtracking/17_Letter_Combinations_of_a_Phone_Number.py)
 - [No 46. Permutations](src/Backtracking/46_Permutations.py)
 - [No 77. Combinations](src/Backtracking/77_Combinations.py)
+- [No 79. Word Search](src/Backtracking/79_Word_Search.py)
 
 ### Graph
-- [No 79. Word Search](src/Graph/79_Word_Search.py)
 - [No 133. Clone Graph](src/Graph/133_Clone_Graph.py)
 - [No 200. Number of Islands](src/Graph/200_Number_of_Islands.py)
