@@ -107,3 +107,6 @@ This is all the code I wrote on LeetCode with the title as the filename.
 ### Graph
 - [No 133. Clone Graph](src/Graph/133_Clone_Graph.py)
 - [No 200. Number of Islands](src/Graph/200_Number_of_Islands.py)
+
+### Binary Search
+- [No 74. Search a 2D Matrix](src/Binary_Search/74_Search_a_2D_Matrix.py)
