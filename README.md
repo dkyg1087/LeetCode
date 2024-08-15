@@ -109,4 +109,5 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 200. Number of Islands](src/Graph/200_Number_of_Islands.py)
 
 ### Binary Search
+- [No 35. Search Insert Position](src/Binary_Search/35_Search_Insert_Position.py)
 - [No 74. Search a 2D Matrix](src/Binary_Search/74_Search_a_2D_Matrix.py)
