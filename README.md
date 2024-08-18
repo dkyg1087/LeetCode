@@ -87,6 +87,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 9. Palindrome Number](src/Math/9_Palindrome_Number.py)
 - [No 66. Plus One](src/Math/66_Plus_One.py)
 - [No 69. Sqrt(x)](src/Math/69_Sqrt(x).py)
+- [No 172. Factorial Trailing Zeroes](src/Math/172_Factorial_Trailing_Zeroes.py)
 
 ### Matrix
 - [No 36. Valid Sudoku](src/Matrix/36_Valid_Sudoku.py)
