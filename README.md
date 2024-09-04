@@ -119,3 +119,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 198. House Robber](src/1D_DP/198_House_Robber.py)
 - [No 300. Longest Increasing Subsequence](src/1D_DP/300_Longest_Increasing_Subsequence.py)
 - [No 322. Coin Change](src/1D_DP/322_Coin_Change.py)
+
+### Multidimensional DP
+
+- [No 120. Triangle](src/Multidimensional_DP/120_Triangle.py)
