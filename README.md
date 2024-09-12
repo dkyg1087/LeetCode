@@ -128,4 +128,8 @@ This is all the code I wrote on LeetCode with the title as the filename.
 
 ### Sliding Window
 
-[No 3. Longest Substring Without Repeating Characters](src/Sliding_Window/3_Longest_Substring_Without_Repeating_Characters.py)
+- [No 3. Longest Substring Without Repeating Characters](src/Sliding_Window/3_Longest_Substring_Without_Repeating_Characters.py)
+
+### Arrays and Strings
+
+- [No 12. Integer to Roman](src/Array_String/12_Integer_to_Roman.py)
