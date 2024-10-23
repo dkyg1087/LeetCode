@@ -108,6 +108,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 46. Permutations](src/Backtracking/46_Permutations.py)
 - [No 77. Combinations](src/Backtracking/77_Combinations.py)
 - [No 79. Word Search](src/Backtracking/79_Word_Search.py)
+- [No 2664. The Knight’s Tour](src/Backtracking/2664_The_Knight’s_Tour.py)
 
 ### Graph
 - [No 130. Surrounded Regions](src/Graph/130_Surrounded_Regions.py)
