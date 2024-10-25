@@ -145,6 +145,10 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 641. Design Circular Deque](src/Array_String/641_Design_Circular_Deque.py)
 - [No 1331. Rank Transform of an Array](src/Array_String/1331_Rank_Transform_of_an_Array.py)
 
+### Trie
+
+- [No 1233. Remove Sub-Folders from the Filesystem](src/Trie/1233_Remove_Sub-Folders_from_the_Filesystem.py)
+
 ### Other
 
  - [No 241. Different Ways to Add Parentheses](src/Other/241_Different_Ways_to_Add_Parentheses.py)
