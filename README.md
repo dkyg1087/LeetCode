@@ -83,6 +83,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 226. Invert Binary Tree](src/Binary_Tree/226_Invert_Binary_Tree.py)
 - [No 236. Lowest Common Ancestor of a Binary Tree](src/Binary_Tree/236_Lowest_Common_Ancestor_of_a_Binary_Tree.py)
 - [No 951. Flip Equivalent Binary Trees](src/Binary_Tree/951_Flip_Equivalent_Binary_Trees.py)
+- [No 2458. Height of Binary Tree After Subtree Removal Queries](src/Binary_Tree/2458_Height_of_Binary_Tree_After_Subtree_Removal_Queries.py)
 - [No 2583. Kth Largest Sum in a Binary Tree](src/Binary_Tree/2583_Kth_Largest_Sum_in_a_Binary_Tree.py)
 - [No 2641. Cousins in Binary Tree II](src/Binary_Tree/2641_Cousins_in_Binary_Tree_II.py)
 - [No 3319. K-th Largest Perfect Subtree Size in Binary Tree](src/Binary_Tree/3319_K-th_Largest_Perfect_Subtree_Size_in_Binary_Tree.py)
