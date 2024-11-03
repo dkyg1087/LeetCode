@@ -132,6 +132,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 ### Multidimensional DP
 - [No 63. Unique Paths II](src/Multidimensional_DP/63_Unique_Paths_II.py)
 - [No 64. Minimum Path Sum](src/Multidimensional_DP/64_Minimum_Path_Sum.py)
+- [No 72. Edit Distance](src/Multidimensional_DP/72_Edit_Distance.py)
 - [No 120. Triangle](src/Multidimensional_DP/120_Triangle.py)
 - [No 265. Paint House II](src/Multidimensional_DP/265_Paint_House_II.py)
 - [No 1277. Count Square Submatrices with All Ones](src/Multidimensional_DP/1277_Count_Square_Submatrices_with_All_Ones.py)
@@ -149,6 +150,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 88. Merge Sorted Array](src/Array_String/88_Merge_Sorted_Array.py)
 - [No 121. Best Time to Buy and Sell Stock](src/Array_String/121_Best_Time_to_Buy_and_Sell_Stock.py)
 - [No 641. Design Circular Deque](src/Array_String/641_Design_Circular_Deque.py)
+- [No 796. Rotate String](src/Array_String/796_Rotate_String.py)
 - [No 1331. Rank Transform of an Array](src/Array_String/1331_Rank_Transform_of_an_Array.py)
 - [No 2490. Circular Sentence](src/Array_String/2490_Circular_Sentence.py)
 - [No 2955. Number of Same-End Substrings](src/Array_String/2955_Number_of_Same-End_Substrings.py)
