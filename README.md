@@ -159,6 +159,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 
 ### Trie
 
+- [No 208. Implement Trie (Prefix Tree)](<src/Trie/208. Implement_Trie_(Prefix Tree).py>)
 - [No 1233. Remove Sub-Folders from the Filesystem](src/Trie/1233_Remove_Sub-Folders_from_the_Filesystem.py)
 
 ### Other
