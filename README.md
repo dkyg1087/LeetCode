@@ -155,6 +155,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 1331. Rank Transform of an Array](src/Array_String/1331_Rank_Transform_of_an_Array.py)
 - [No 2490. Circular Sentence](src/Array_String/2490_Circular_Sentence.py)
 - [No 2955. Number of Same-End Substrings](src/Array_String/2955_Number_of_Same-End_Substrings.py)
+- [No 3163. String Compression III](src/Array_String/3163_String_Compression_III.py)
 
 ### Trie
 
