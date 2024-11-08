@@ -39,6 +39,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 190. Reverse Bits](src/Bit_Manipulation/190_Reverse_Bits.py)
 - [No 191. Number of 1 Bits](src/Bit_Manipulation/191_Number_of_1_Bits.py)
 - [No 201. Bitwise AND of Numbers Range](src/Bit_Manipulation/201_Bitwise_AND_of_Numbers_Range.py)
+- [No 1829. Maximum XOR for Each Query](src/Bit_Manipulation/1829_Maximum_XOR_for_Each_Query.py)
 - [No 2275. Largest Combination With Bitwise AND Greater Than Zero](src/Bit_Manipulation/2275_Largest_Combination_With_Bitwise_AND_Greater_Than_Zero.py)
 - [No 3011. Find if Array Can Be Sorted](src/Bit_Manipulation/3011_Find_if_Array_Can_Be_Sorted.py)
 
