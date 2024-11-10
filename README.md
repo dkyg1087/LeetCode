@@ -162,6 +162,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 121. Best Time to Buy and Sell Stock](src/Array_String/121_Best_Time_to_Buy_and_Sell_Stock.py)
 - [No 641. Design Circular Deque](src/Array_String/641_Design_Circular_Deque.py)
 - [No 796. Rotate String](src/Array_String/796_Rotate_String.py)
+- [No 1213. Intersection of Three Sorted Arrays](src/Array_String/1213_Intersection_of_Three_Sorted_Arrays.py)
 - [No 1331. Rank Transform of an Array](src/Array_String/1331_Rank_Transform_of_an_Array.py)
 - [No 2490. Circular Sentence](src/Array_String/2490_Circular_Sentence.py)
 - [No 2955. Number of Same-End Substrings](src/Array_String/2955_Number_of_Same-End_Substrings.py)
