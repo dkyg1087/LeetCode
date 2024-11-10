@@ -42,6 +42,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 1829. Maximum XOR for Each Query](src/Bit_Manipulation/1829_Maximum_XOR_for_Each_Query.py)
 - [No 2275. Largest Combination With Bitwise AND Greater Than Zero](src/Bit_Manipulation/2275_Largest_Combination_With_Bitwise_AND_Greater_Than_Zero.py)
 - [No 3011. Find if Array Can Be Sorted](src/Bit_Manipulation/3011_Find_if_Array_Can_Be_Sorted.py)
+- [No 3133. Minimum Array End](src/Bit_Manipulation/3133_Minimum_Array_End.py)
 
 ### Divide and Conquer
 
@@ -151,6 +152,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 
 - [No 3. Longest Substring Without Repeating Characters](src/Sliding_Window/3_Longest_Substring_Without_Repeating_Characters.py)
 - [No 209. Minimum Size Subarray Sum](src/Sliding_Window/209_Minimum_Size_Subarray_Sum.py)
+- [No 3097. Shortest Subarray With OR at Least K II](src/Sliding_Window/3097_Shortest_Subarray_With_OR_at_Least_K_II.py)
 
 ### Arrays and Strings
 
