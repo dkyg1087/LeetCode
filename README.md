@@ -131,6 +131,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 35. Search Insert Position](src/Binary_Search/35_Search_Insert_Position.py)
 - [No 74. Search a 2D Matrix](src/Binary_Search/74_Search_a_2D_Matrix.py)
 - [No 162. Find Peak Element](src/Binary_Search/162_Find_Peak_Element.py)
+- [No 2070. Most Beautiful Item for Each Query](src/Binary_Search/2070_Most_Beautiful_Item_for_Each_Query.py)
 
 ### 1D DP
 - [No 70. Climbing Stairs](src/1D_DP/70_Climbing_Stairs.py)
