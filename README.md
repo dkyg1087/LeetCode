@@ -53,6 +53,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 ### Breadth First Search
 - [No 102. Binary Tree Level Order Traversal](src/Breadth_First_Search/102_Binary_Tree_Level_Order_Traversal.py)
 - [No 103. Binary Tree Zigzag Level Order Traversal](src/Breadth_First_Search/103_Binary_Tree_Zigzag_Level_Order_Traversal.py)
+- [No 127. Word Ladder](src/Breadth_First_Search/127_Word_Ladder.py)
 - [No 199. Binary Tree Right Side View](src/Breadth_First_Search/199_Binary_Tree_Right_Side_View.py)
 - [No 433. Minimum Genetic Mutation](src/Breadth_First_Search/433_Minimum_Genetic_Mutation.py)
 - [No 637. Average of Levels in Binary Tree](src/Breadth_First_Search/637_Average_of_Levels_in_Binary_Tree.py)
@@ -168,6 +169,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 1213. Intersection of Three Sorted Arrays](src/Array_String/1213_Intersection_of_Three_Sorted_Arrays.py)
 - [No 1331. Rank Transform of an Array](src/Array_String/1331_Rank_Transform_of_an_Array.py)
 - [No 2490. Circular Sentence](src/Array_String/2490_Circular_Sentence.py)
+- [No 2563. Count the Number of Fair Pairs](<src/Array_String/2563. Count the Number of Fair Pairs.py>)
 - [No 2601. Prime Subtraction Operation](src/Array_String/2601_Prime_Subtraction_Operation.py)
 - [No 2955. Number of Same-End Substrings](src/Array_String/2955_Number_of_Same-End_Substrings.py)
 - [No 3163. String Compression III](src/Array_String/3163_String_Compression_III.py)
