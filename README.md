@@ -31,6 +31,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 15. 3Sum](src/Two_Pointer/15_3Sum.py)
 - [No 125. Valid Palindrome](src/Two_Pointer/125_Valid_Palindrome.py)
 - [No 392. Is Subsequence](src/Two_Pointer/392_Is_Subsequence.py)
+- [No 1574. Shortest Subarray to be Removed to Make Array Sorted](src/Two_Pointer/1574_Shortest_Subarray_to_be_Removed_to_Make_Array_Sorted.py)
 
 ### Bit Manipulation
 - [No 67. Add Binary](src/Bit_Manipulation/67_Add_Binary.py)
