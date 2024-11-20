@@ -159,6 +159,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 3. Longest Substring Without Repeating Characters](src/Sliding_Window/3_Longest_Substring_Without_Repeating_Characters.py)
 - [No 209. Minimum Size Subarray Sum](src/Sliding_Window/209_Minimum_Size_Subarray_Sum.py)
 - [No 2461. Maximum Sum of Distinct Subarrays With Length K](src/Sliding_Window/2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K.py)
+- [No 2516. Take K of Each Character From Left and Right](src/Sliding_Window/2516_Take_K_of_Each_Character_From_Left_and_Right.py)
 - [No 3097. Shortest Subarray With OR at Least K II](src/Sliding_Window/3097_Shortest_Subarray_With_OR_at_Least_K_II.py)
 - [No 3254. Find the Power of K-Size Subarrays I](src/Sliding_Window/3254_Find_the_Power_of_K-Size_Subarrays_I.py)
 
