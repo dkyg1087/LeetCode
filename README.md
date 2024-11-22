@@ -14,6 +14,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 242. Valid Anagram](src/Hashmap/242_Valid_Anagram.py)
 - [No 290. Word Pattern](src/Hashmap/290_Word_Pattern.py)
 - [No 383. Ransom Note](src/Hashmap/383_Ransom_Note.py)
+- [No 1072. Flip Columns For Maximum Number of Equal Rows](src/Hashmap/1072_Flip_Columns_For_Maximum_Number_of_Equal_Rows.py)
 
 ### Intervals
 - [No 56. Merge Intervals](src/Intervals/56_Merge_Intervals.py)
@@ -23,6 +24,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 
 ### Binary Search Tree
 - [No 98. Validate Binary Search Tree](src/Binary_Search_Tree/98_Validate_Binary_Search_Tree.py)
+- [No 173. Binary Search Tree Iterator](src/Binary_Search_Tree/173_Binary_Search_Tree_Iterator.py)
 - [No 230. kth Smallest Element in a BST](src/Binary_Search_Tree/230_Kth_Smallest_Element_in_a_BST.py)
 - [No 530. Minimum Absolute Difference in BST](src/Binary_Search_Tree/530_Minimum_Absolute_Difference_in_BST.py)
 
