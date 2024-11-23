@@ -177,6 +177,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 1213. Intersection of Three Sorted Arrays](src/Array_String/1213_Intersection_of_Three_Sorted_Arrays.py)
 - [No 1331. Rank Transform of an Array](src/Array_String/1331_Rank_Transform_of_an_Array.py)
 - [No 1652. Defuse the Bomb](src/Array_String/1652_Defuse_the_Bomb.py)
+- [No 1861. Rotating the Box](src/Array_String/1861_Rotating_the_Box.py)
 - [No 2490. Circular Sentence](src/Array_String/2490_Circular_Sentence.py)
 - [No 2563. Count the Number of Fair Pairs](<src/Array_String/2563. Count the Number of Fair Pairs.py>)
 - [No 2601. Prime Subtraction Operation](src/Array_String/2601_Prime_Subtraction_Operation.py)
