@@ -60,6 +60,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 199. Binary Tree Right Side View](src/Breadth_First_Search/199_Binary_Tree_Right_Side_View.py)
 - [No 433. Minimum Genetic Mutation](src/Breadth_First_Search/433_Minimum_Genetic_Mutation.py)
 - [No 637. Average of Levels in Binary Tree](src/Breadth_First_Search/637_Average_of_Levels_in_Binary_Tree.py)
+- [No 773. Sliding Puzzle](src/Breadth_First_Search/773_Sliding_Puzzle.py)
 
 ### Stack
 - [No 20. Valid Parentheses](src/Stack/20_Valid_Parentheses.py)
