@@ -186,6 +186,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 2601. Prime Subtraction Operation](src/Array_String/2601_Prime_Subtraction_Operation.py)
 - [No 2955. Number of Same-End Substrings](src/Array_String/2955_Number_of_Same-End_Substrings.py)
 - [No 3163. String Compression III](src/Array_String/3163_String_Compression_III.py)
+- [No 3243. Shortest Distance After Road Addition Queries I](src/Array_String/3243_Shortest_Distance_After_Road_Addition_Queries_I.py)
 
 ### Trie
 
