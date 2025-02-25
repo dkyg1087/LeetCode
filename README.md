@@ -27,6 +27,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 173. Binary Search Tree Iterator](src/Binary_Search_Tree/173_Binary_Search_Tree_Iterator.py)
 - [No 230. kth Smallest Element in a BST](src/Binary_Search_Tree/230_Kth_Smallest_Element_in_a_BST.py)
 - [No 530. Minimum Absolute Difference in BST](src/Binary_Search_Tree/530_Minimum_Absolute_Difference_in_BST.py)
+- [No 700. Search in a Binary Search Tree](src/Binary_Search_Tree/700_Search_in_a_Binary_Search_Tree.py)
 
 ### Two Pointer
 - [No 11. Container With Most Water](src/Two_Pointer/11_Container_With_Most_Water.py)
