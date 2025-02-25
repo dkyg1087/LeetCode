@@ -199,3 +199,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 
  - [No 241. Different Ways to Add Parentheses](src/Other/241_Different_Ways_to_Add_Parentheses.py)
  - [No 1429. First Unique Number](src/Other/1429_First_Unique_Number.py)
+
+### Prefix Sum
+
+- [No 1524. Number of Sub-arrays With Odd Sum](src/Prefix_Sum/1524_Number_of_Sub-arrays_With_Odd_Sum.py)
