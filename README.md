@@ -177,6 +177,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 88. Merge Sorted Array](src/Array_String/88_Merge_Sorted_Array.py)
 - [No 121. Best Time to Buy and Sell Stock](src/Array_String/121_Best_Time_to_Buy_and_Sell_Stock.py)
 - [No 345. Reverse Vowels of a String](src/Array_String/345_Reverse_Vowels_of_a_String.py)
+- [No 443. String Compression](src/Array_String/443_String_Compression.py)
 - [No 605. Can Place Flowers](src/Array_String/605_Can_Place_Flowers.py)
 - [No 641. Design Circular Deque](src/Array_String/641_Design_Circular_Deque.py)
 - [No 796. Rotate String](src/Array_String/796_Rotate_String.py)
