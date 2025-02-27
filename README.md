@@ -181,6 +181,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 1071. Greatest Common Divisor of Strings](src/Array_String/1071_Greatest_Common_Divisor_of_Strings.py)
 - [No 1213. Intersection of Three Sorted Arrays](src/Array_String/1213_Intersection_of_Three_Sorted_Arrays.py)
 - [No 1331. Rank Transform of an Array](src/Array_String/1331_Rank_Transform_of_an_Array.py)
+- [No 1431. Kids With the Greatest Number of Candies](src/Array_String/1431_Kids_With_the_Greatest_Number_of_Candies.py)
 - [No 1652. Defuse the Bomb](src/Array_String/1652_Defuse_the_Bomb.py)
 - [No 1768. Merge Strings Alternately](src/Array_String/1768_Merge_Strings_Alternately.py)
 - [No 1861. Rotating the Box](src/Array_String/1861_Rotating_the_Box.py)
