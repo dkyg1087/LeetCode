@@ -15,6 +15,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 290. Word Pattern](src/Hashmap/290_Word_Pattern.py)
 - [No 383. Ransom Note](src/Hashmap/383_Ransom_Note.py)
 - [No 1072. Flip Columns For Maximum Number of Equal Rows](src/Hashmap/1072_Flip_Columns_For_Maximum_Number_of_Equal_Rows.py)
+- [No 1679. Max Number of K-Sum Pairs](src/Hashmap/1679_Max_Number_of_K-Sum_Pairs.py)
 
 ### Intervals
 - [No 56. Merge Intervals](src/Intervals/56_Merge_Intervals.py)
@@ -35,6 +36,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 125. Valid Palindrome](src/Two_Pointer/125_Valid_Palindrome.py)
 - [No 392. Is Subsequence](src/Two_Pointer/392_Is_Subsequence.py)
 - [No 1574. Shortest Subarray to be Removed to Make Array Sorted](src/Two_Pointer/1574_Shortest_Subarray_to_be_Removed_to_Make_Array_Sorted.py)
+- [No 2570. Merge Two 2D Arrays by Summing Values](src/Two_Pointer/2570_Merge_Two_2D_Arrays_by_Summing_Values.py)
 
 ### Bit Manipulation
 - [No 67. Add Binary](src/Bit_Manipulation/67_Add_Binary.py)
@@ -176,6 +178,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 42. Trapping Rain Water](src/Array_String/42_Trapping_Rain_Water.py)
 - [No 88. Merge Sorted Array](src/Array_String/88_Merge_Sorted_Array.py)
 - [No 121. Best Time to Buy and Sell Stock](src/Array_String/121_Best_Time_to_Buy_and_Sell_Stock.py)
+- [No 283. Move Zeroes](src/Array_String/283_Move_Zeroes.py)
 - [No 334. Increasing Triplet Subsequence](src/Array_String/334_Increasing_Triplet_Subsequence.py)
 - [No 345. Reverse Vowels of a String](src/Array_String/345_Reverse_Vowels_of_a_String.py)
 - [No 443. String Compression](src/Array_String/443_String_Compression.py)
