@@ -215,3 +215,4 @@ This is all the code I wrote on LeetCode with the title as the filename.
 ### Prefix Sum
 - [No 724. Find Pivot Index](src/Prefix_Sum/724_Find_Pivot_Index.py)
 - [No 1524. Number of Sub-arrays With Odd Sum](src/Prefix_Sum/1524_Number_of_Sub-arrays_With_Odd_Sum.py)
+- [No 1732. Find the Highest Altitude](src/Prefix_Sum/1732_Find_the_Highest_Altitude.py)
