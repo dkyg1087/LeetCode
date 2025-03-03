@@ -213,5 +213,5 @@ This is all the code I wrote on LeetCode with the title as the filename.
  - [No 1429. First Unique Number](src/Other/1429_First_Unique_Number.py)
 
 ### Prefix Sum
-
+- [No 724. Find Pivot Index](src/Prefix_Sum/724_Find_Pivot_Index.py)
 - [No 1524. Number of Sub-arrays With Odd Sum](src/Prefix_Sum/1524_Number_of_Sub-arrays_With_Odd_Sum.py)
