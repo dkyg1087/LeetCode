@@ -168,11 +168,16 @@ This is all the code I wrote on LeetCode with the title as the filename.
 
 - [No 3. Longest Substring Without Repeating Characters](src/Sliding_Window/3_Longest_Substring_Without_Repeating_Characters.py)
 - [No 209. Minimum Size Subarray Sum](src/Sliding_Window/209_Minimum_Size_Subarray_Sum.py)
+- [No 643. Maximum Average Subarray I](src/Sliding_Window/643_Maximum_Average_Subarray_I.py)
+- [No 1456. Maximum Number of Vowels in a Substring of Given Length](src/Sliding_Window/1004_Max_Consecutive_Ones_III.py)
+- [No 1004. Max Consecutive Ones III](src/Sliding_Window/1456_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.py)
+- [No 1493. Longest Subarray of 1's After Deleting One Element](src/Sliding_Window/1493_Longest_Subarray_of_1's_After_Deleting_One_Element.py)
 - [No 2107. Number of Unique Flavors After Sharing K Candies](src/Sliding_Window/2107_Number_of_Unique_Flavors_After_Sharing_K_Candies.py)
 - [No 2461. Maximum Sum of Distinct Subarrays With Length K](src/Sliding_Window/2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K.py)
 - [No 2516. Take K of Each Character From Left and Right](src/Sliding_Window/2516_Take_K_of_Each_Character_From_Left_and_Right.py)
 - [No 3097. Shortest Subarray With OR at Least K II](src/Sliding_Window/3097_Shortest_Subarray_With_OR_at_Least_K_II.py)
 - [No 3254. Find the Power of K-Size Subarrays I](src/Sliding_Window/3254_Find_the_Power_of_K-Size_Subarrays_I.py)
+- [No 3306. Count of Substrings Containing Every Vowel and K Consonants II](src/Sliding_Window/3306_Count_of_Substrings_Containing_Every_Vowel_and_K_Consonants_II.py)
 
 ### Arrays and Strings
 
