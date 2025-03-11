@@ -171,6 +171,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 643. Maximum Average Subarray I](src/Sliding_Window/643_Maximum_Average_Subarray_I.py)
 - [No 1456. Maximum Number of Vowels in a Substring of Given Length](src/Sliding_Window/1004_Max_Consecutive_Ones_III.py)
 - [No 1004. Max Consecutive Ones III](src/Sliding_Window/1456_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.py)
+- [No 1358. Number of Substrings Containing All Three Characters](src/Sliding_Window/1358_Number_of_Substrings_Containing_All_Three_Characters.py)
 - [No 1493. Longest Subarray of 1's After Deleting One Element](src/Sliding_Window/1493_Longest_Subarray_of_1's_After_Deleting_One_Element.py)
 - [No 2107. Number of Unique Flavors After Sharing K Candies](src/Sliding_Window/2107_Number_of_Unique_Flavors_After_Sharing_K_Candies.py)
 - [No 2461. Maximum Sum of Distinct Subarrays With Length K](src/Sliding_Window/2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K.py)
