@@ -216,6 +216,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 208. Implement Trie (Prefix Tree)](<src/Trie/208. Implement_Trie_(Prefix Tree).py>)
 - [No 211. Design Add and Search Words Data Structure](src/Trie/211_Design_Add_and_Search_Words_Data_Structure.py)
 - [No 1233. Remove Sub-Folders from the Filesystem](src/Trie/1233_Remove_Sub-Folders_from_the_Filesystem.py)
+- [No 1268. Search Suggestions System](src/Trie/1268_Search_Suggestions_System.py)
 
 ### Other
 
