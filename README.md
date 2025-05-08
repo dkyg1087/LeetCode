@@ -140,6 +140,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 399. Evaluate Division](src/Graph/399_Evaluate_Division.py)
 - [No 2924. Find Champion II](src/Graph/2924_Find_Champion_II.py)
 - [No 3341. Find Minimum Time to Reach Last Room I](src/Graph/3341_Find_Minimum_Time_to_Reach_Last_Room_I.py)
+- [No 3342. Find Minimum Time to Reach Last Room II](src/Graph/3342_Find_Minimum_Time_to_Reach_Last_Room_II.py)
 
 ### Binary Search
 - [No 35. Search Insert Position](src/Binary_Search/35_Search_Insert_Position.py)
