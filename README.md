@@ -188,6 +188,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 
 - [No 12. Integer to Roman](src/Array_String/12_Integer_to_Roman.py)
 - [No 42. Trapping Rain Water](src/Array_String/42_Trapping_Rain_Water.py)
+- [No 75. Sort Colors](src/Array_String/75_Sort_Colors.py)
 - [No 88. Merge Sorted Array](src/Array_String/88_Merge_Sorted_Array.py)
 - [No 121. Best Time to Buy and Sell Stock](src/Array_String/121_Best_Time_to_Buy_and_Sell_Stock.py)
 - [No 283. Move Zeroes](src/Array_String/283_Move_Zeroes.py)
