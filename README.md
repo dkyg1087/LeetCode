@@ -216,6 +216,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 3163. String Compression III](src/Array_String/3163_String_Compression_III.py)
 - [No 3243. Shortest Distance After Road Addition Queries I](src/Array_String/3243_Shortest_Distance_After_Road_Addition_Queries_I.py)
 - [No 3335. Total Characters in String After Transformations I](src/Array_String/3335_Tota_Characters_in_String_After_Transformations_I.py)
+- [No 3355. Zero Array Transformation I](src/Array_String/3355_Zero_Array_Transformation_I.py)
 
 ### Trie
 
