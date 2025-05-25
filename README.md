@@ -16,6 +16,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 383. Ransom Note](src/Hashmap/383_Ransom_Note.py)
 - [No 1072. Flip Columns For Maximum Number of Equal Rows](src/Hashmap/1072_Flip_Columns_For_Maximum_Number_of_Equal_Rows.py)
 - [No 1679. Max Number of K-Sum Pairs](src/Hashmap/1679_Max_Number_of_K-Sum_Pairs.py)
+- [No 2131. Longest Palindrome by Concatenating Two Letter Words](src/Hashmap/2131_Longest_Palindrome_by_Concatenating_Two_Letter_Words.py)
 
 ### Intervals
 - [No 56. Merge Intervals](src/Intervals/56_Merge_Intervals.py)
