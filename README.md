@@ -112,6 +112,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 172. Factorial Trailing Zeroes](src/Math/172_Factorial_Trailing_Zeroes.py)
 - [No 1780. Check if Number is a Sum of Powers of Three](src/Math/1780_Check_if_Number_is_a_Sum_of_Powers_of_Three.py)
 - [No 2579. Count Total Number of Colored Cells](src/Math/2579_Count_Total_Number_of_Colored_Cells.py)
+- [No 2929. Distribute Candies Among Children II](src/Math/2929_Distribute_Candies_Among_Children_II.py)
 
 ### Matrix
 - [No 36. Valid Sudoku](src/Matrix/36_Valid_Sudoku.py)
