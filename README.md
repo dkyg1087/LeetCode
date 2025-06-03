@@ -65,6 +65,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 433. Minimum Genetic Mutation](src/Breadth_First_Search/433_Minimum_Genetic_Mutation.py)
 - [No 637. Average of Levels in Binary Tree](src/Breadth_First_Search/637_Average_of_Levels_in_Binary_Tree.py)
 - [No 773. Sliding Puzzle](src/Breadth_First_Search/773_Sliding_Puzzle.py)
+- [No 1298. Maximum Candies You Can Get from Boxes](src/Breadth_First_Search/1298_Maximum_Candies_You_Can_Get_from_Boxes.py)
 
 ### Stack
 - [No 20. Valid Parentheses](src/Stack/20_Valid_Parentheses.py)
