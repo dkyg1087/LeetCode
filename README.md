@@ -220,6 +220,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 3243. Shortest Distance After Road Addition Queries I](src/Array_String/3243_Shortest_Distance_After_Road_Addition_Queries_I.py)
 - [No 3335. Total Characters in String After Transformations I](src/Array_String/3335_Tota_Characters_in_String_After_Transformations_I.py)
 - [No 3355. Zero Array Transformation I](src/Array_String/3355_Zero_Array_Transformation_I.py)
+- [No 3403. Find the Lexicographically Largest String From the Box I](src/Array_String/3403_Find_the_Lexicographically_Largest_String_From_the_Box_I.py)
 
 ### Trie
 
