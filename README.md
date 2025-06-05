@@ -232,7 +232,9 @@ This is all the code I wrote on LeetCode with the title as the filename.
 ### Other
 
  - [No 241. Different Ways to Add Parentheses](src/Other/241_Different_Ways_to_Add_Parentheses.py)
+ - [No 1061. Lexicographically Smallest Equivalent String](src/Other/1061_Lexicographically_Smallest_Equivalent_String.py)
  - [No 1429. First Unique Number](src/Other/1429_First_Unique_Number.py)
+
 
 ### Prefix Sum
 - [No 724. Find Pivot Index](src/Prefix_Sum/724_Find_Pivot_Index.py)
