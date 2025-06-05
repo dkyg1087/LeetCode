@@ -159,6 +159,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 198. House Robber](src/1D_DP/198_House_Robber.py)
 - [No 300. Longest Increasing Subsequence](src/1D_DP/300_Longest_Increasing_Subsequence.py)
 - [No 322. Coin Change](src/1D_DP/322_Coin_Change.py)
+- [No 746. Min Cost Climbing Stairs](src/1D_DP/746_Min_Cost_Climbing_Stairs.py)
 - [No 2914. Minimum Number of Changes to Make Binary String Beautiful](src/1D_DP/2914_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.py)
 
 ### Multidimensional DP
