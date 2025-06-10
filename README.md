@@ -15,9 +15,12 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 290. Word Pattern](src/Hashmap/290_Word_Pattern.py)
 - [No 383. Ransom Note](src/Hashmap/383_Ransom_Note.py)
 - [No 1072. Flip Columns For Maximum Number of Equal Rows](src/Hashmap/1072_Flip_Columns_For_Maximum_Number_of_Equal_Rows.py)
+- [No 1207. Unique Number of Occurrences](src/Hashmap/1207_Unique_Number_of_Occurrences.py)
+- [No 1657. Determine if Two Strings Are Close](src/Hashmap/1657_Determine_if_Two_Strings_Are_Close.py)
 - [No 1679. Max Number of K-Sum Pairs](src/Hashmap/1679_Max_Number_of_K-Sum_Pairs.py)
 - [No 2131. Longest Palindrome by Concatenating Two Letter Words](src/Hashmap/2131_Longest_Palindrome_by_Concatenating_Two_Letter_Words.py)
 - [No 2215. Find the Difference of Two Arrays](src/Hashmap/2215_Find_the_Difference_of_Two_Arrays.py)
+- [No 2352. Equal Row and Column Pairs](src/Hashmap/2352_Equal_Row_and_Column_Pairs.py)
 
 ### Intervals
 - [No 56. Merge Intervals](src/Intervals/56_Merge_Intervals.py)
