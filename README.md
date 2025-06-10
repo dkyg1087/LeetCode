@@ -21,6 +21,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 2131. Longest Palindrome by Concatenating Two Letter Words](src/Hashmap/2131_Longest_Palindrome_by_Concatenating_Two_Letter_Words.py)
 - [No 2215. Find the Difference of Two Arrays](src/Hashmap/2215_Find_the_Difference_of_Two_Arrays.py)
 - [No 2352. Equal Row and Column Pairs](src/Hashmap/2352_Equal_Row_and_Column_Pairs.py)
+- [No 3442. Maximum Difference Between Even and Odd Frequency I](src/Hashmap/3442_Maximum_Difference_Between_Even_and_Odd_Frequency_I.py)
 
 ### Intervals
 - [No 56. Merge Intervals](src/Intervals/56_Merge_Intervals.py)
