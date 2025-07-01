@@ -91,7 +91,9 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 141. Linked List Cycle](src/Linked_List/141_Linked_List_Cycle.py)
 - [No 146. LRU Cache](src/Linked_List/146_LRU_Cache.py)
 - [No 206. Reverse Linked List](src/Linked_List/206_Reverse_Linked_List.py)
+- [No 328. Odd Even Linked List](src/Linked_List/328_Odd_Even_Linked_List.py)
 - [No 1634. Add Two Polynomials Represented as Linked Lists](src/Linked_List/1634_Add_Two_Polynomials_Represented_as_Linked_Lists.py)
+- [No 2095. Delete the Middle Node of a Linked List](src/Linked_List/2095_Delete_the_Middle_Node_of_a_Linked_List.py)
 - [No 2130. Maximum Twin Sum of a Linked List](src/Linked_List/2130_Maximum_Twin_Sum_of_a_Linked_List.py)
 
 ### Binary Tree
