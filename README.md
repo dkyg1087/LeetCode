@@ -92,6 +92,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 146. LRU Cache](src/Linked_List/146_LRU_Cache.py)
 - [No 206. Reverse Linked List](src/Linked_List/206_Reverse_Linked_List.py)
 - [No 1634. Add Two Polynomials Represented as Linked Lists](src/Linked_List/1634_Add_Two_Polynomials_Represented_as_Linked_Lists.py)
+- [No 2130. Maximum Twin Sum of a Linked List](src/Linked_List/2130_Maximum_Twin_Sum_of_a_Linked_List.py)
 
 ### Binary Tree
 - [No 100. Same Tree](src/Binary_Tree/100_Same_Tree.py)
