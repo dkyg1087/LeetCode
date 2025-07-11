@@ -78,6 +78,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 71. Simplify Path](src/Stack/71_Simplify_Path.py)
 - [No 150. Evaluate Reverse Polish Notation](src/Stack/150_Evaluate_Reverse_Polish_Notation.py)
 - [No 155. Min Stack](src/Stack/155_Min_Stack.py)
+- [No 394. Decode String](src/Stack/394_Decode_String.py)
 
 ### Linked List
 - [No 2. Add Two Numbers](src/Linked_List/2_Add_Two_Numbers.py)
