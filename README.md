@@ -34,6 +34,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 98. Validate Binary Search Tree](src/Binary_Search_Tree/98_Validate_Binary_Search_Tree.py)
 - [No 173. Binary Search Tree Iterator](src/Binary_Search_Tree/173_Binary_Search_Tree_Iterator.py)
 - [No 230. kth Smallest Element in a BST](src/Binary_Search_Tree/230_Kth_Smallest_Element_in_a_BST.py)
+- [No 450. Delete Node in a BST](src/Binary_Search_Tree/450_Delete_Node_in_a_BST.py)
 - [No 530. Minimum Absolute Difference in BST](src/Binary_Search_Tree/530_Minimum_Absolute_Difference_in_BST.py)
 - [No 700. Search in a Binary Search Tree](src/Binary_Search_Tree/700_Search_in_a_Binary_Search_Tree.py)
 
@@ -43,6 +44,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 125. Valid Palindrome](src/Two_Pointer/125_Valid_Palindrome.py)
 - [No 392. Is Subsequence](src/Two_Pointer/392_Is_Subsequence.py)
 - [No 1574. Shortest Subarray to be Removed to Make Array Sorted](src/Two_Pointer/1574_Shortest_Subarray_to_be_Removed_to_Make_Array_Sorted.py)
+- [No 2410. Maximum Matching of Players With Trainers](src/Two_Pointer/2410_Maximum_Matching_of_Players_With_Trainers.py)
 - [No 2570. Merge Two 2D Arrays by Summing Values](src/Two_Pointer/2570_Merge_Two_2D_Arrays_by_Summing_Values.py)
 
 ### Bit Manipulation
@@ -107,9 +109,11 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 117. Populating Next Right Pointers in Each Node II](src/Binary_Tree/117_Populating_Next_Right_Pointers_in_Each_Node_II.py)
 - [No 124. Binary Tree Maximum Path Sum](src/Binary_Tree/124_Binary_Tree_Maximum_Path_Sum.py)
 - [No 129. Sum Root to Leaf Numbers](src/Binary_Tree/129_Sum_Root_to_Leaf_Numbers.py)
+- [No 199. Binary Tree Right Side View](src/Binary_Tree/199_Binary_Tree_Right_Side_View.py)
 - [No 226. Invert Binary Tree](src/Binary_Tree/226_Invert_Binary_Tree.py)
 - [No 236. Lowest Common Ancestor of a Binary Tree](src/Binary_Tree/236_Lowest_Common_Ancestor_of_a_Binary_Tree.py)
 - [No 951. Flip Equivalent Binary Trees](src/Binary_Tree/951_Flip_Equivalent_Binary_Trees.py)
+- [No 1161. Maximum Level Sum of a Binary Tree](src/Binary_Tree/1161_Maximum_Level_Sum_of_a_Binary_Tree.py)
 - [No 1261. Find Elements in a Contaminated Binary Tree](src/Binary_Tree/1261_Find_Elements_in_a_Contaminated_Binary_Tree.py)
 - [No 2458. Height of Binary Tree After Subtree Removal Queries](src/Binary_Tree/2458_Height_of_Binary_Tree_After_Subtree_Removal_Queries.py)
 - [No 2583. Kth Largest Sum in a Binary Tree](src/Binary_Tree/2583_Kth_Largest_Sum_in_a_Binary_Tree.py)
