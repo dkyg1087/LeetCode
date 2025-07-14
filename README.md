@@ -34,6 +34,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 98. Validate Binary Search Tree](src/Binary_Search_Tree/98_Validate_Binary_Search_Tree.py)
 - [No 173. Binary Search Tree Iterator](src/Binary_Search_Tree/173_Binary_Search_Tree_Iterator.py)
 - [No 230. kth Smallest Element in a BST](src/Binary_Search_Tree/230_Kth_Smallest_Element_in_a_BST.py)
+- [No 285. Inorder Successor in BST](src/Binary_Search_Tree/285_Inorder_Successor_in_BST.py)
 - [No 450. Delete Node in a BST](src/Binary_Search_Tree/450_Delete_Node_in_a_BST.py)
 - [No 530. Minimum Absolute Difference in BST](src/Binary_Search_Tree/530_Minimum_Absolute_Difference_in_BST.py)
 - [No 700. Search in a Binary Search Tree](src/Binary_Search_Tree/700_Search_in_a_Binary_Search_Tree.py)
@@ -73,6 +74,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 433. Minimum Genetic Mutation](src/Breadth_First_Search/433_Minimum_Genetic_Mutation.py)
 - [No 637. Average of Levels in Binary Tree](src/Breadth_First_Search/637_Average_of_Levels_in_Binary_Tree.py)
 - [No 773. Sliding Puzzle](src/Breadth_First_Search/773_Sliding_Puzzle.py)
+- [No 994. Rotting Oranges](src/Breadth_First_Search/994_Rotting_Oranges.py)
 - [No 1298. Maximum Candies You Can Get from Boxes](src/Breadth_First_Search/1298_Maximum_Candies_You_Can_Get_from_Boxes.py)
 
 ### Stack
@@ -156,6 +158,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 133. Clone Graph](src/Graph/133_Clone_Graph.py)
 - [No 200. Number of Islands](src/Graph/200_Number_of_Islands.py)
 - [No 399. Evaluate Division](src/Graph/399_Evaluate_Division.py)
+- [No 1926. Nearest Exit from Entrance in Maze](src/Graph/1926_Nearest_Exit_from_Entrance_in_Maze.py)
 - [No 2924. Find Champion II](src/Graph/2924_Find_Champion_II.py)
 - [No 3341. Find Minimum Time to Reach Last Room I](src/Graph/3341_Find_Minimum_Time_to_Reach_Last_Room_I.py)
 - [No 3342. Find Minimum Time to Reach Last Room II](src/Graph/3342_Find_Minimum_Time_to_Reach_Last_Room_II.py)
