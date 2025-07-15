@@ -28,6 +28,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 56. Merge Intervals](src/Intervals/56_Merge_Intervals.py)
 - [No 57. Insert Interval](src/Intervals/57_Insert_Interval.py)
 - [No 228. Summary Ranges](src/Intervals/228_Summary_Ranges.py)
+- [No 435. Non-overlapping Intervals](src/Intervals/435_Non-overlapping_Intervals.py)
 - [No 452. Minimum Number of Arrows to Burst Balloons](src/Intervals/452_Minimum_Number_of_Arrows_to_Burst_Balloons.py)
 
 ### Binary Search Tree
@@ -55,6 +56,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 190. Reverse Bits](src/Bit_Manipulation/190_Reverse_Bits.py)
 - [No 191. Number of 1 Bits](src/Bit_Manipulation/191_Number_of_1_Bits.py)
 - [No 201. Bitwise AND of Numbers Range](src/Bit_Manipulation/201_Bitwise_AND_of_Numbers_Range.py)
+- [No 1290. Convert Binary Number in a Linked List to Integer](src/Bit_Manipulation/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer.py)
 - [No 1829. Maximum XOR for Each Query](src/Bit_Manipulation/1829_Maximum_XOR_for_Each_Query.py)
 - [No 2275. Largest Combination With Bitwise AND Greater Than Zero](src/Bit_Manipulation/2275_Largest_Combination_With_Bitwise_AND_Greater_Than_Zero.py)
 - [No 3011. Find if Array Can Be Sorted](src/Bit_Manipulation/3011_Find_if_Array_Can_Be_Sorted.py)
