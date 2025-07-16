@@ -239,6 +239,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 2601. Prime Subtraction Operation](src/Array_String/2601_Prime_Subtraction_Operation.py)
 - [No 2918. Minimum Equal Sum of Two Arrays After Replacing Zeros](src/Array_String/2918_Minimum_Equal_Sum_of_Two_Arrays_After_Replacing_Zeros.py)
 - [No 2955. Number of Same-End Substrings](src/Array_String/2955_Number_of_Same-End_Substrings.py)
+- [No 3136. Valid Word](src/Array_String/3136_Valid_Word.py)
 - [No 3163. String Compression III](src/Array_String/3163_String_Compression_III.py)
 - [No 3243. Shortest Distance After Road Addition Queries I](src/Array_String/3243_Shortest_Distance_After_Road_Addition_Queries_I.py)
 - [No 3330. Find the Original Typed String I](src/Array_String/3330_Find_the_Original_Typed_String_I.py)
@@ -264,3 +265,9 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 724. Find Pivot Index](src/Prefix_Sum/724_Find_Pivot_Index.py)
 - [No 1524. Number of Sub-arrays With Odd Sum](src/Prefix_Sum/1524_Number_of_Sub-arrays_With_Odd_Sum.py)
 - [No 1732. Find the Highest Altitude](src/Prefix_Sum/1732_Find_the_Highest_Altitude.py)
+
+
+### Monotonic Stack
+- [No 739. Daily Temperatures](src/Monotonic_Stack/739_Daily_Temperatures.py)
+- [No 901. Online Stock Span](src/Monotonic_Stack/901_Online_Stock_Span.py)
+  
