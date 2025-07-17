@@ -56,7 +56,9 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 190. Reverse Bits](src/Bit_Manipulation/190_Reverse_Bits.py)
 - [No 191. Number of 1 Bits](src/Bit_Manipulation/191_Number_of_1_Bits.py)
 - [No 201. Bitwise AND of Numbers Range](src/Bit_Manipulation/201_Bitwise_AND_of_Numbers_Range.py)
+- [No 338. Counting Bits](src/Bit_Manipulation/338_Counting_Bits.py)
 - [No 1290. Convert Binary Number in a Linked List to Integer](src/Bit_Manipulation/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer.py)
+- [No 1318. Minimum Flips to Make a OR b Equal to c](src/Bit_Manipulation/1318_Minimum_Flips_to_Make_a_OR_b_Equal_to_c.py)
 - [No 1829. Maximum XOR for Each Query](src/Bit_Manipulation/1829_Maximum_XOR_for_Each_Query.py)
 - [No 2275. Largest Combination With Bitwise AND Greater Than Zero](src/Bit_Manipulation/2275_Largest_Combination_With_Bitwise_AND_Greater_Than_Zero.py)
 - [No 3011. Find if Array Can Be Sorted](src/Bit_Manipulation/3011_Find_if_Array_Can_Be_Sorted.py)
@@ -182,6 +184,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 746. Min Cost Climbing Stairs](src/1D_DP/746_Min_Cost_Climbing_Stairs.py)
 - [No 1137. N-th Tribonacci Number](src/1D_DP/1137_N-th_Tribonacci_Number.py)
 - [No 2914. Minimum Number of Changes to Make Binary String Beautiful](src/1D_DP/2914_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.py)
+- [No 3201. Find the Maximum Length of Repeated Subarray](src/1D_DP/3201_Find_the_Maximum_Length_of_Valid_Subsequence_I.py)
 
 ### Multidimensional DP
 - [No 63. Unique Paths II](src/Multidimensional_DP/63_Unique_Paths_II.py)
