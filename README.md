@@ -78,6 +78,7 @@ This is all the code I wrote on LeetCode with the title as the filename.
 - [No 433. Minimum Genetic Mutation](src/Breadth_First_Search/433_Minimum_Genetic_Mutation.py)
 - [No 637. Average of Levels in Binary Tree](src/Breadth_First_Search/637_Average_of_Levels_in_Binary_Tree.py)
 - [No 773. Sliding Puzzle](src/Breadth_First_Search/773_Sliding_Puzzle.py)
+- [No 841. Keys and Rooms](src/Breadth_First_Search/841_Keys_and_Rooms.py)
 - [No 994. Rotting Oranges](src/Breadth_First_Search/994_Rotting_Oranges.py)
 - [No 1298. Maximum Candies You Can Get from Boxes](src/Breadth_First_Search/1298_Maximum_Candies_You_Can_Get_from_Boxes.py)
 
@@ -276,4 +277,6 @@ This is all the code I wrote on LeetCode with the title as the filename.
 ### Monotonic Stack
 - [No 739. Daily Temperatures](src/Monotonic_Stack/739_Daily_Temperatures.py)
 - [No 901. Online Stock Span](src/Monotonic_Stack/901_Online_Stock_Span.py)
-  
+
+### Disjoint Set
+- [No 547. Number of Provinces](src/Disjoint_Set/547_Number_of_Provinces.py)
