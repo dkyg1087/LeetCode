@@ -1,0 +1,49 @@
+{
+  "tags": [
+
+    "backtracking",
+    "binary_search",
+    "breadth_first_search",
+    "depth_first_search",
+    "divide_and_conquer",
+    "dp_1d",
+    "dp_2d",
+    "dp_multidimensional",
+    "greedy",
+    "sliding_window",
+    "prefix_sum",
+    "monotonic_stack",
+    "topological_sort",
+    "union_find",
+    "recursion",
+    "shortest_path",
+    "simulation",
+    "enumeration",
+    "string_matching",
+
+    "array",
+    "string",
+    "hashmap",
+    "hashset",
+    "linked_list",
+    "stack",
+    "queue",
+    "heap",
+    "matrix",
+    "trie",
+    "binary_tree",
+    "binary_search_tree",
+    "graph",
+    "disjoint_set",
+
+    "intervals",
+    "two_pointers",
+    "bit_manipulation",
+    "counting",
+    "design",
+
+    "implementation",
+    "math",
+    "other"
+  ]
+}
