@@ -34,6 +34,6 @@ with open(INDEX_MD_PATH, "w", encoding="utf-8") as f:
     f.write("# Tags Index\n\n")
     for tag in sorted(tags):
         slug = tag.lower().replace(" ", "_") + ".md"
-        f.write(f"- [{tag.title().replace('_', ' ')}](tag_pages/{slug})\n")
+        f.write(f"- [{tag.title().replace('_', ' ')}](Tag-Pages/{slug})\n")
 
 print(f"Index created at: {INDEX_MD_PATH}")

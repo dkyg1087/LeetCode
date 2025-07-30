@@ -1,6 +1,35 @@
 # Binary Tree
 
-**0 problems with this tag.**
+**29 problems with this tag.**
 
 ### Problems
 
+- [98_Validate_Binary_Search_Tree](..\..\Problems\98_Validate_Binary_Search_Tree.py)
+- [100_Same_Tree](..\..\Problems\100_Same_Tree.py)
+- [101_Symmetric_Tree](..\..\Problems\101_Symmetric_Tree.py)
+- [102_Binary_Tree_Level_Order_Traversal](..\..\Problems\102_Binary_Tree_Level_Order_Traversal.py)
+- [103_Binary_Tree_Zigzag_Level_Order_Traversal](..\..\Problems\103_Binary_Tree_Zigzag_Level_Order_Traversal.py)
+- [104_Maximum_Depth_of_Binary_Tree](..\..\Problems\104_Maximum_Depth_of_Binary_Tree.py)
+- [108_Convert_Sorted_Array_to_Binary_Search_Tree](..\..\Problems\108_Convert_Sorted_Array_to_Binary_Search_Tree.py)
+- [112_Path_Sum](..\..\Problems\112_Path_Sum.py)
+- [114_Flatten_Binary_Tree_to_Linked_List](..\..\Problems\114_Flatten_Binary_Tree_to_Linked_List.py)
+- [117_Populating_Next_Right_Pointers_in_Each_Node_II](..\..\Problems\117_Populating_Next_Right_Pointers_in_Each_Node_II.py)
+- [124_Binary_Tree_Maximum_Path_Sum](..\..\Problems\124_Binary_Tree_Maximum_Path_Sum.py)
+- [129_Sum_Root_to_Leaf_Numbers](..\..\Problems\129_Sum_Root_to_Leaf_Numbers.py)
+- [173_Binary_Search_Tree_Iterator](..\..\Problems\173_Binary_Search_Tree_Iterator.py)
+- [199_Binary_Tree_Right_Side_View](..\..\Problems\199_Binary_Tree_Right_Side_View.py)
+- [226_Invert_Binary_Tree](..\..\Problems\226_Invert_Binary_Tree.py)
+- [230_Kth_Smallest_Element_in_a_BST](..\..\Problems\230_Kth_Smallest_Element_in_a_BST.py)
+- [236_Lowest_Common_Ancestor_of_a_Binary_Tree](..\..\Problems\236_Lowest_Common_Ancestor_of_a_Binary_Tree.py)
+- [285_Inorder_Successor_in_BST](..\..\Problems\285_Inorder_Successor_in_BST.py)
+- [450_Delete_Node_in_a_BST](..\..\Problems\450_Delete_Node_in_a_BST.py)
+- [530_Minimum_Absolute_Difference_in_BST](..\..\Problems\530_Minimum_Absolute_Difference_in_BST.py)
+- [637_Average_of_Levels_in_Binary_Tree](..\..\Problems\637_Average_of_Levels_in_Binary_Tree.py)
+- [700_Search_in_a_Binary_Search_Tree](..\..\Problems\700_Search_in_a_Binary_Search_Tree.py)
+- [951_Flip_Equivalent_Binary_Trees](..\..\Problems\951_Flip_Equivalent_Binary_Trees.py)
+- [1161_Maximum_Level_Sum_of_a_Binary_Tree](..\..\Problems\1161_Maximum_Level_Sum_of_a_Binary_Tree.py)
+- [1261_Find_Elements_in_a_Contaminated_Binary_Tree](..\..\Problems\1261_Find_Elements_in_a_Contaminated_Binary_Tree.py)
+- [2458_Height_of_Binary_Tree_After_Subtree_Removal_Queries](..\..\Problems\2458_Height_of_Binary_Tree_After_Subtree_Removal_Queries.py)
+- [2583_Kth_Largest_Sum_in_a_Binary_Tree](..\..\Problems\2583_Kth_Largest_Sum_in_a_Binary_Tree.py)
+- [2641_Cousins_in_Binary_Tree_II](..\..\Problems\2641_Cousins_in_Binary_Tree_II.py)
+- [3319_K-th_Largest_Perfect_Subtree_Size_in_Binary_Tree](..\..\Problems\3319_K-th_Largest_Perfect_Subtree_Size_in_Binary_Tree.py)

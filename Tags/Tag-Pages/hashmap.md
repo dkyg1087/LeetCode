@@ -1,6 +1,39 @@
 # Hashmap
 
-**0 problems with this tag.**
+**33 problems with this tag.**
 
 ### Problems
 
+- [1_Two_Sum](..\..\Problems\1_Two_Sum.py)
+- [3_Longest_Substring_Without_Repeating_Characters](..\..\Problems\3_Longest_Substring_Without_Repeating_Characters.py)
+- [12_Integer_to_Roman](..\..\Problems\12_Integer_to_Roman.py)
+- [17_Letter_Combinations_of_a_Phone_Number](..\..\Problems\17_Letter_Combinations_of_a_Phone_Number.py)
+- [49_Group_Anagrams](..\..\Problems\49_Group_Anagrams.py)
+- [128_Longest_Consecutive_Sequence](..\..\Problems\128_Longest_Consecutive_Sequence.py)
+- [138_Copy_List_with_Random_Pointer](..\..\Problems\138_Copy_List_with_Random_Pointer.py)
+- [146_LRU_Cache](..\..\Problems\146_LRU_Cache.py)
+- [208. Implement_Trie_(Prefix Tree)](..\..\Problems\208_Implement_Trie_(Prefix_Tree).py)
+- [211_Design_Add_and_Search_Words_Data_Structure](..\..\Problems\211_Design_Add_and_Search_Words_Data_Structure.py)
+- [219_Contains_Duplicate_II](..\..\Problems\219_Contains_Duplicate_II.py)
+- [242_Valid_Anagram](..\..\Problems\242_Valid_Anagram.py)
+- [290_Word_Pattern](..\..\Problems\290_Word_Pattern.py)
+- [383_Ransom_Note](..\..\Problems\383_Ransom_Note.py)
+- [399_Evaluate_Division](..\..\Problems\399_Evaluate_Division.py)
+- [1061_Lexicographically_Smallest_Equivalent_String](..\..\Problems\1061_Lexicographically_Smallest_Equivalent_String.py)
+- [1072_Flip_Columns_For_Maximum_Number_of_Equal_Rows](..\..\Problems\1072_Flip_Columns_For_Maximum_Number_of_Equal_Rows.py)
+- [1207_Unique_Number_of_Occurrences](..\..\Problems\1207_Unique_Number_of_Occurrences.py)
+- [1268_Search_Suggestions_System](..\..\Problems\1268_Search_Suggestions_System.py)
+- [1331_Rank_Transform_of_an_Array](..\..\Problems\1331_Rank_Transform_of_an_Array.py)
+- [1358_Number_of_Substrings_Containing_All_Three_Characters](..\..\Problems\1358_Number_of_Substrings_Containing_All_Three_Characters.py)
+- [1394_Find_Lucky_Integer_in_an_Array](..\..\Problems\1394_Find_Lucky_Integer_in_an_Array.py)
+- [1429_First_Unique_Number](..\..\Problems\1429_First_Unique_Number.py)
+- [1657_Determine_if_Two_Strings_Are_Close](..\..\Problems\1657_Determine_if_Two_Strings_Are_Close.py)
+- [1679_Max_Number_of_K-Sum_Pairs](..\..\Problems\1679_Max_Number_of_K-Sum_Pairs.py)
+- [2107_Number_of_Unique_Flavors_After_Sharing_K_Candies](..\..\Problems\2107_Number_of_Unique_Flavors_After_Sharing_K_Candies.py)
+- [2131_Longest_Palindrome_by_Concatenating_Two_Letter_Words](..\..\Problems\2131_Longest_Palindrome_by_Concatenating_Two_Letter_Words.py)
+- [2352_Equal_Row_and_Column_Pairs](..\..\Problems\2352_Equal_Row_and_Column_Pairs.py)
+- [2458_Height_of_Binary_Tree_After_Subtree_Removal_Queries](..\..\Problems\2458_Height_of_Binary_Tree_After_Subtree_Removal_Queries.py)
+- [2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K](..\..\Problems\2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K.py)
+- [2924_Find_Champion_II](..\..\Problems\2924_Find_Champion_II.py)
+- [3306_Count_of_Substrings_Containing_Every_Vowel_and_K_Consonants_II](..\..\Problems\3306_Count_of_Substrings_Containing_Every_Vowel_and_K_Consonants_II.py)
+- [3442_Maximum_Difference_Between_Even_and_Odd_Frequency_I](..\..\Problems\3442_Maximum_Difference_Between_Even_and_Odd_Frequency_I.py)
