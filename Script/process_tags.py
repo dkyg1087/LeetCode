@@ -4,20 +4,9 @@ from shutil import move
 from pathlib import Path
 
 from update_problem_tags import update_problem_tags
-from call_llm import call_ollama
+from call_llm import call_ollama,call_gemini
 from update_md import update_tag_md,update_readme_md
-
-
-# RAW_DIR = Path("Raw")
-# PROBLEM_DIR = Path("Problems")
-# TAGS_DIR = Path("Tags")
-# SCRIPTS_DIR = Path("Scripts")
-# TAGS_INDEX_FILE = TAGS_DIR / "index.md"
-# README_FILE = Path("README.md")
-# TAGS_JSON_FILE = Path("Tags/json/tags.json")
-# PROBLEM_TAGS_FILE = Path("problem_tags.json")
-# OLLAMA_ENDPOINT = "http://localhost:11434/api/generate"
-# MODEL_NAME = "gemma3:12b"
+from dotenv import load_dotenv
 
 
 def standardize_filename(filename):
@@ -32,7 +21,7 @@ def load_tags():
         return json.load(f)["tags"]
 
 def main():
-    
+    load_dotenv()
     RAW_DIR = Path("Raw")
     PROBLEM_DIR = Path("Problems")
     tags = load_tags()
@@ -52,7 +41,9 @@ def main():
         with open(new_path,"r",encoding="utf-8") as f:
             content = f.read()
         
-        tags_pred = call_ollama(new_filename.replace(".py", ""), content, tags)
+        # tags_pred = call_ollama(new_filename.replace(".py", ""), content, tags)
+        tags_pred = call_gemini(new_filename.replace(".py", ""), content, tags)
+        
         for i in range(len(tags_pred)):
             if tags_pred[i] not in tags:
                 tags_pred[i] = "other"
