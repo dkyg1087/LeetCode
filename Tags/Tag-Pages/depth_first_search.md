@@ -1,0 +1,34 @@
+# Depth First Search
+
+**28 problems with this tag.**
+
+### Problems
+
+- [79_Word_Search](..\..\Problems\79_Word_Search.py)
+- [98_Validate_Binary_Search_Tree](..\..\Problems\98_Validate_Binary_Search_Tree.py)
+- [100_Same_Tree](..\..\Problems\100_Same_Tree.py)
+- [101_Symmetric_Tree](..\..\Problems\101_Symmetric_Tree.py)
+- [104_Maximum_Depth_of_Binary_Tree](..\..\Problems\104_Maximum_Depth_of_Binary_Tree.py)
+- [112_Path_Sum](..\..\Problems\112_Path_Sum.py)
+- [114_Flatten_Binary_Tree_to_Linked_List](..\..\Problems\114_Flatten_Binary_Tree_to_Linked_List.py)
+- [129_Sum_Root_to_Leaf_Numbers](..\..\Problems\129_Sum_Root_to_Leaf_Numbers.py)
+- [130_Surrounded_Regions](..\..\Problems\130_Surrounded_Regions.py)
+- [133_Clone_Graph](..\..\Problems\133_Clone_Graph.py)
+- [200_Number_of_Islands](..\..\Problems\200_Number_of_Islands.py)
+- [207_Course_Schedule](..\..\Problems\207_Course_Schedule.py)
+- [211_Design_Add_and_Search_Words_Data_Structure](..\..\Problems\211_Design_Add_and_Search_Words_Data_Structure.py)
+- [226_Invert_Binary_Tree](..\..\Problems\226_Invert_Binary_Tree.py)
+- [230_Kth_Smallest_Element_in_a_BST](..\..\Problems\230_Kth_Smallest_Element_in_a_BST.py)
+- [236_Lowest_Common_Ancestor_of_a_Binary_Tree](..\..\Problems\236_Lowest_Common_Ancestor_of_a_Binary_Tree.py)
+- [241_Different_Ways_to_Add_Parentheses](..\..\Problems\241_Different_Ways_to_Add_Parentheses.py)
+- [285_Inorder_Successor_in_BST](..\..\Problems\285_Inorder_Successor_in_BST.py)
+- [399_Evaluate_Division](..\..\Problems\399_Evaluate_Division.py)
+- [530_Minimum_Absolute_Difference_in_BST](..\..\Problems\530_Minimum_Absolute_Difference_in_BST.py)
+- [700_Search_in_a_Binary_Search_Tree](..\..\Problems\700_Search_in_a_Binary_Search_Tree.py)
+- [951_Flip_Equivalent_Binary_Trees](..\..\Problems\951_Flip_Equivalent_Binary_Trees.py)
+- [1161_Maximum_Level_Sum_of_a_Binary_Tree](..\..\Problems\1161_Maximum_Level_Sum_of_a_Binary_Tree.py)
+- [1233_Remove_Sub-Folders_from_the_Filesystem](..\..\Problems\1233_Remove_Sub-Folders_from_the_Filesystem.py)
+- [1466_Reorder_Routes_to_Make_All_Paths_Lead_to_the_City_Zero](..\..\Problems\1466_Reorder_Routes_to_Make_All_Paths_Lead_to_the_City_Zero.py)
+- [2458_Height_of_Binary_Tree_After_Subtree_Removal_Queries](..\..\Problems\2458_Height_of_Binary_Tree_After_Subtree_Removal_Queries.py)
+- [2664_The_Knight’s_Tour](..\..\Problems\2664_The_Knight’s_Tour.py)
+- [3319_K-th_Largest_Perfect_Subtree_Size_in_Binary_Tree](..\..\Problems\3319_K-th_Largest_Perfect_Subtree_Size_in_Binary_Tree.py)

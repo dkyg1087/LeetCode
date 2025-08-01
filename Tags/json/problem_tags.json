@@ -1,0 +1,1195 @@
+{
+    "1_Two_Sum.py": [
+        "array",
+        "hashmap"
+    ],
+    "2_Add_Two_Numbers.py": [
+        "linked_list",
+        "two_pointers",
+        "math"
+    ],
+    "3_Longest_Substring_Without_Repeating_Characters.py": [
+        "array",
+        "string",
+        "hashmap",
+        "sliding_window",
+        "two_pointers"
+    ],
+    "9_Palindrome_Number.py": [
+        "math",
+        "array",
+        "two_pointers"
+    ],
+    "11_Container_With_Most_Water.py": [
+        "array",
+        "greedy",
+        "two_pointers"
+    ],
+    "12_Integer_to_Roman.py": [
+        "array",
+        "greedy",
+        "string",
+        "hashmap"
+    ],
+    "15_3Sum.py": [
+        "array",
+        "two_pointers",
+        "other"
+    ],
+    "17_Letter_Combinations_of_a_Phone_Number.py": [
+        "backtracking",
+        "recursion",
+        "string",
+        "hashmap"
+    ],
+    "19_Remove_Nth_Node_From_End_of_List.py": [
+        "linked_list",
+        "two_pointers"
+    ],
+    "20_Valid_Parentheses.py": [
+        "array",
+        "string",
+        "stack"
+    ],
+    "21_Merge_Two_Sorted_Lists.py": [
+        "linked_list",
+        "two_pointers"
+    ],
+    "25_Reverse_Nodes_in_k-Group.py": [
+        "linked_list",
+        "two_pointers"
+    ],
+    "35_Search_Insert_Position.py": [
+        "array",
+        "binary_search"
+    ],
+    "36_Valid_Sudoku.py": [
+        "array",
+        "hashset",
+        "matrix",
+        "other"
+    ],
+    "42_Trapping_Rain_Water.py": [
+        "array",
+        "greedy",
+        "monotonic_stack",
+        "stack"
+    ],
+    "46_Permutations.py": [
+        "backtracking",
+        "recursion",
+        "array"
+    ],
+    "48_Rotate_Image.py": [
+        "array",
+        "matrix"
+    ],
+    "49_Group_Anagrams.py": [
+        "array",
+        "string",
+        "hashmap",
+        "counting",
+        "string_matching"
+    ],
+    "53_Maximum_Subarray.py": [
+        "array",
+        "greedy"
+    ],
+    "54_Spiral_Matrix.py": [
+        "array",
+        "matrix",
+        "simulation"
+    ],
+    "56_Merge_Intervals.py": [
+        "array",
+        "intervals",
+        "greedy",
+        "two_pointers"
+    ],
+    "57_Insert_Interval.py": [
+        "array",
+        "intervals",
+        "two_pointers",
+        "greedy"
+    ],
+    "61_Rotate_List.py": [
+        "linked_list",
+        "two_pointers"
+    ],
+    "63_Unique_Paths_II.py": [
+        "array",
+        "matrix",
+        "dp_2d",
+        "dp_multidimensional"
+    ],
+    "64_Minimum_Path_Sum.py": [
+        "array",
+        "dp_2d",
+        "shortest_path",
+        "matrix"
+    ],
+    "66_Plus_One.py": [
+        "array",
+        "greedy"
+    ],
+    "67_Add_Binary.py": [
+        "array",
+        "string",
+        "bit_manipulation",
+        "math"
+    ],
+    "69_Sqrt(x).py": [
+        "binary_search",
+        "math",
+        "array"
+    ],
+    "70_Climbing_Stairs.py": [
+        "array",
+        "math",
+        "dp_1d"
+    ],
+    "71_Simplify_Path.py": [
+        "array",
+        "string",
+        "stack"
+    ],
+    "72_Edit_Distance.py": [
+        "array",
+        "string",
+        "dp_2d",
+        "string_matching"
+    ],
+    "73_Set_Matrix_Zeroes.py": [
+        "array",
+        "matrix",
+        "greedy"
+    ],
+    "74_Search_a_2D_Matrix.py": [
+        "array",
+        "binary_search",
+        "matrix"
+    ],
+    "75_Sort_Colors.py": [
+        "array",
+        "counting",
+        "greedy",
+        "two_pointers"
+    ],
+    "77_Combinations.py": [
+        "backtracking",
+        "recursion",
+        "array"
+    ],
+    "79_Word_Search.py": [
+        "backtracking",
+        "recursion",
+        "array",
+        "string",
+        "matrix",
+        "depth_first_search"
+    ],
+    "82_Remove_Duplicates_from_Sorted_List_II.py": [
+        "linked_list",
+        "two_pointers"
+    ],
+    "83_Remove_Duplicates_from_Sorted_List.py": [
+        "linked_list",
+        "two_pointers"
+    ],
+    "86_Partition_List.py": [
+        "linked_list",
+        "two_pointers"
+    ],
+    "88_Merge_Sorted_Array.py": [
+        "array",
+        "two_pointers"
+    ],
+    "92_Reverse_Linked_List_II.py": [
+        "linked_list",
+        "two_pointers"
+    ],
+    "98_Validate_Binary_Search_Tree.py": [
+        "binary_tree",
+        "binary_search_tree",
+        "recursion",
+        "depth_first_search"
+    ],
+    "100_Same_Tree.py": [
+        "binary_tree",
+        "recursion",
+        "depth_first_search"
+    ],
+    "101_Symmetric_Tree.py": [
+        "binary_tree",
+        "depth_first_search",
+        "recursion"
+    ],
+    "102_Binary_Tree_Level_Order_Traversal.py": [
+        "binary_tree",
+        "breadth_first_search",
+        "queue"
+    ],
+    "103_Binary_Tree_Zigzag_Level_Order_Traversal.py": [
+        "binary_tree",
+        "queue",
+        "breadth_first_search"
+    ],
+    "104_Maximum_Depth_of_Binary_Tree.py": [
+        "binary_tree",
+        "depth_first_search",
+        "recursion"
+    ],
+    "108_Convert_Sorted_Array_to_Binary_Search_Tree.py": [
+        "array",
+        "binary_tree",
+        "binary_search_tree",
+        "recursion",
+        "divide_and_conquer"
+    ],
+    "112_Path_Sum.py": [
+        "binary_tree",
+        "depth_first_search",
+        "recursion"
+    ],
+    "114_Flatten_Binary_Tree_to_Linked_List.py": [
+        "recursion",
+        "binary_tree",
+        "depth_first_search",
+        "linked_list"
+    ],
+    "117_Populating_Next_Right_Pointers_in_Each_Node_II.py": [
+        "binary_tree",
+        "linked_list",
+        "breadth_first_search"
+    ],
+    "118_Pascal's_Triangle.py": [
+        "array",
+        "math",
+        "simulation",
+        "implementation"
+    ],
+    "120_Triangle.py": [
+        "array",
+        "dp_1d",
+        "matrix"
+    ],
+    "121_Best_Time_to_Buy_and_Sell_Stock.py": [
+        "array",
+        "greedy"
+    ],
+    "124_Binary_Tree_Maximum_Path_Sum.py": [
+        "binary_tree",
+        "recursion",
+        "divide_and_conquer"
+    ],
+    "125_Valid_Palindrome.py": [
+        "array",
+        "string",
+        "two_pointers"
+    ],
+    "127_Word_Ladder.py": [
+        "breadth_first_search",
+        "queue",
+        "string",
+        "hashset",
+        "string_matching",
+        "shortest_path"
+    ],
+    "128_Longest_Consecutive_Sequence.py": [
+        "array",
+        "hashmap"
+    ],
+    "129_Sum_Root_to_Leaf_Numbers.py": [
+        "binary_tree",
+        "recursion",
+        "depth_first_search"
+    ],
+    "130_Surrounded_Regions.py": [
+        "array",
+        "matrix",
+        "depth_first_search",
+        "recursion"
+    ],
+    "133_Clone_Graph.py": [
+        "recursion",
+        "depth_first_search",
+        "graph",
+        "hashset"
+    ],
+    "136_Single_Number.py": [
+        "array",
+        "greedy",
+        "bit_manipulation"
+    ],
+    "137_Single_Number_II.py": [
+        "array",
+        "bit_manipulation",
+        "counting"
+    ],
+    "138_Copy_List_with_Random_Pointer.py": [
+        "linked_list",
+        "hashmap",
+        "recursion"
+    ],
+    "139_Word_Break.py": [
+        "array",
+        "string",
+        "hashset",
+        "dp_1d",
+        "recursion"
+    ],
+    "141_Linked_List_Cycle.py": [
+        "linked_list",
+        "two_pointers"
+    ],
+    "146_LRU_Cache.py": [
+        "hashmap",
+        "linked_list",
+        "design",
+        "implementation"
+    ],
+    "150_Evaluate_Reverse_Polish_Notation.py": [
+        "array",
+        "stack",
+        "math"
+    ],
+    "151_Reverse_Words_in_a_String.py": [
+        "array",
+        "string",
+        "two_pointers",
+        "stack",
+        "string_matching"
+    ],
+    "155_Min_Stack.py": [
+        "array",
+        "stack",
+        "design",
+        "implementation"
+    ],
+    "162_Find_Peak_Element.py": [
+        "array",
+        "binary_search",
+        "greedy"
+    ],
+    "167_Two_Sum_II_-_Input_Array_Is_Sorted.py": [
+        "array",
+        "two_pointers"
+    ],
+    "172_Factorial_Trailing_Zeroes.py": [
+        "array",
+        "math",
+        "counting"
+    ],
+    "173_Binary_Search_Tree_Iterator.py": [
+        "binary_tree",
+        "binary_search_tree",
+        "stack",
+        "recursion"
+    ],
+    "190_Reverse_Bits.py": [
+        "bit_manipulation",
+        "array"
+    ],
+    "191_Number_of_1_Bits.py": [
+        "bit_manipulation",
+        "counting"
+    ],
+    "198_House_Robber.py": [
+        "array",
+        "dp_1d",
+        "greedy"
+    ],
+    "199_Binary_Tree_Right_Side_View.py": [
+        "binary_tree",
+        "queue",
+        "breadth_first_search"
+    ],
+    "200_Number_of_Islands.py": [
+        "backtracking",
+        "depth_first_search",
+        "recursion",
+        "array",
+        "matrix"
+    ],
+    "201_Bitwise_AND_of_Numbers_Range.py": [
+        "bit_manipulation",
+        "greedy"
+    ],
+    "202_Happy_Number.py": [
+        "hashset",
+        "math",
+        "simulation"
+    ],
+    "205_Isomorphic_Strings.py": [
+        "array",
+        "string",
+        "hashset"
+    ],
+    "206_Reverse_Linked_List.py": [
+        "linked_list",
+        "recursion",
+        "two_pointers"
+    ],
+    "207_Course_Schedule.py": [
+        "backtracking",
+        "depth_first_search",
+        "recursion",
+        "graph",
+        "array",
+        "hashset"
+    ],
+    "208_Implement_Trie_(Prefix_Tree).py": [
+        "string",
+        "hashmap",
+        "trie",
+        "design",
+        "implementation"
+    ],
+    "209_Minimum_Size_Subarray_Sum.py": [
+        "array",
+        "greedy",
+        "two_pointers",
+        "sliding_window"
+    ],
+    "211_Design_Add_and_Search_Words_Data_Structure.py": [
+        "string",
+        "hashmap",
+        "trie",
+        "design",
+        "implementation",
+        "recursion",
+        "depth_first_search"
+    ],
+    "215_Kth_Largest_Element_in_an_Array.py": [
+        "array",
+        "greedy",
+        "counting"
+    ],
+    "216_Combination_Sum_III.py": [
+        "backtracking",
+        "recursion",
+        "array"
+    ],
+    "219_Contains_Duplicate_II.py": [
+        "array",
+        "hashmap"
+    ],
+    "226_Invert_Binary_Tree.py": [
+        "binary_tree",
+        "recursion",
+        "depth_first_search"
+    ],
+    "228_Summary_Ranges.py": [
+        "array",
+        "greedy"
+    ],
+    "230_Kth_Smallest_Element_in_a_BST.py": [
+        "recursion",
+        "binary_tree",
+        "binary_search_tree",
+        "depth_first_search"
+    ],
+    "236_Lowest_Common_Ancestor_of_a_Binary_Tree.py": [
+        "binary_tree",
+        "recursion",
+        "depth_first_search",
+        "divide_and_conquer"
+    ],
+    "238_Product_of_Array_Except_Self.py": [
+        "array",
+        "two_pointers",
+        "math"
+    ],
+    "241_Different_Ways_to_Add_Parentheses.py": [
+        "backtracking",
+        "depth_first_search",
+        "recursion",
+        "string",
+        "math"
+    ],
+    "242_Valid_Anagram.py": [
+        "array",
+        "string",
+        "hashmap",
+        "counting"
+    ],
+    "265_Paint_House_II.py": [
+        "array",
+        "dp_1d"
+    ],
+    "283_Move_Zeroes.py": [
+        "array",
+        "two_pointers",
+        "greedy"
+    ],
+    "285_Inorder_Successor_in_BST.py": [
+        "binary_tree",
+        "binary_search_tree",
+        "depth_first_search",
+        "recursion"
+    ],
+    "289_Game_of_Life.py": [
+        "array",
+        "matrix",
+        "simulation",
+        "recursion"
+    ],
+    "290_Word_Pattern.py": [
+        "string",
+        "hashmap"
+    ],
+    "300_Longest_Increasing_Subsequence.py": [
+        "array",
+        "binary_search",
+        "greedy"
+    ],
+    "322_Coin_Change.py": [
+        "array",
+        "dp_1d",
+        "greedy",
+        "math"
+    ],
+    "328_Odd_Even_Linked_List.py": [
+        "linked_list",
+        "two_pointers"
+    ],
+    "334_Increasing_Triplet_Subsequence.py": [
+        "array",
+        "greedy"
+    ],
+    "338_Counting_Bits.py": [
+        "array",
+        "bit_manipulation",
+        "counting"
+    ],
+    "345_Reverse_Vowels_of_a_String.py": [
+        "array",
+        "string",
+        "two_pointers"
+    ],
+    "383_Ransom_Note.py": [
+        "array",
+        "string",
+        "hashmap",
+        "greedy",
+        "counting"
+    ],
+    "392_Is_Subsequence.py": [
+        "array",
+        "string",
+        "two_pointers"
+    ],
+    "394_Decode_String.py": [
+        "string",
+        "stack"
+    ],
+    "399_Evaluate_Division.py": [
+        "graph",
+        "depth_first_search",
+        "recursion",
+        "hashmap",
+        "hashset"
+    ],
+    "433_Minimum_Genetic_Mutation.py": [
+        "array",
+        "string",
+        "queue",
+        "breadth_first_search",
+        "shortest_path"
+    ],
+    "435_Non-overlapping_Intervals.py": [
+        "array",
+        "intervals",
+        "two_pointers",
+        "greedy"
+    ],
+    "443_String_Compression.py": [
+        "array",
+        "string",
+        "two_pointers",
+        "greedy"
+    ],
+    "450_Delete_Node_in_a_BST.py": [
+        "binary_tree",
+        "binary_search_tree",
+        "recursion"
+    ],
+    "452_Minimum_Number_of_Arrows_to_Burst_Balloons.py": [
+        "array",
+        "intervals",
+        "greedy",
+        "two_pointers"
+    ],
+    "530_Minimum_Absolute_Difference_in_BST.py": [
+        "binary_tree",
+        "binary_search_tree",
+        "depth_first_search",
+        "recursion"
+    ],
+    "547_Number_of_Provinces.py": [
+        "array",
+        "graph",
+        "union_find"
+    ],
+    "605_Can_Place_Flowers.py": [
+        "array",
+        "greedy"
+    ],
+    "637_Average_of_Levels_in_Binary_Tree.py": [
+        "binary_tree",
+        "queue",
+        "breadth_first_search"
+    ],
+    "641_Design_Circular_Deque.py": [
+        "array",
+        "design",
+        "implementation",
+        "queue"
+    ],
+    "643_Maximum_Average_Subarray_I.py": [
+        "array",
+        "greedy",
+        "sliding_window"
+    ],
+    "649_Dota2_Senate.py": [
+        "array",
+        "string",
+        "queue",
+        "greedy",
+        "simulation"
+    ],
+    "700_Search_in_a_Binary_Search_Tree.py": [
+        "binary_tree",
+        "binary_search_tree",
+        "recursion",
+        "depth_first_search",
+        "binary_search"
+    ],
+    "724_Find_Pivot_Index.py": [
+        "array",
+        "prefix_sum"
+    ],
+    "739_Daily_Temperatures.py": [
+        "array",
+        "stack",
+        "monotonic_stack",
+        "greedy"
+    ],
+    "746_Min_Cost_Climbing_Stairs.py": [
+        "array",
+        "greedy",
+        "dp_1d"
+    ],
+    "773_Sliding_Puzzle.py": [
+        "breadth_first_search",
+        "array",
+        "string",
+        "queue",
+        "simulation"
+    ],
+    "790_Domino_and_Tromino_Tiling.py": [
+        "dp_1d",
+        "math",
+        "array"
+    ],
+    "796_Rotate_String.py": [
+        "array",
+        "string",
+        "string_matching",
+        "two_pointers"
+    ],
+    "841_Keys_and_Rooms.py": [
+        "graph",
+        "breadth_first_search",
+        "queue",
+        "hashset"
+    ],
+    "901_Online_Stock_Span.py": [
+        "monotonic_stack",
+        "stack",
+        "array",
+        "design",
+        "implementation"
+    ],
+    "918_Maximum_Sum_Circular_Subarray.py": [
+        "array",
+        "greedy",
+        "prefix_sum"
+    ],
+    "951_Flip_Equivalent_Binary_Trees.py": [
+        "binary_tree",
+        "recursion",
+        "depth_first_search"
+    ],
+    "994_Rotting_Oranges.py": [
+        "array",
+        "breadth_first_search",
+        "queue",
+        "matrix",
+        "shortest_path",
+        "simulation"
+    ],
+    "1004_Max_Consecutive_Ones_III.py": [
+        "array",
+        "greedy",
+        "sliding_window",
+        "two_pointers"
+    ],
+    "1061_Lexicographically_Smallest_Equivalent_String.py": [
+        "array",
+        "string",
+        "hashmap",
+        "union_find",
+        "string_matching"
+    ],
+    "1071_Greatest_Common_Divisor_of_Strings.py": [
+        "string",
+        "math"
+    ],
+    "1072_Flip_Columns_For_Maximum_Number_of_Equal_Rows.py": [
+        "array",
+        "hashmap",
+        "bit_manipulation",
+        "matrix"
+    ],
+    "1137_N-th_Tribonacci_Number.py": [
+        "array",
+        "math",
+        "dp_1d"
+    ],
+    "1161_Maximum_Level_Sum_of_a_Binary_Tree.py": [
+        "binary_tree",
+        "depth_first_search",
+        "recursion"
+    ],
+    "1207_Unique_Number_of_Occurrences.py": [
+        "array",
+        "hashmap",
+        "counting"
+    ],
+    "1213_Intersection_of_Three_Sorted_Arrays.py": [
+        "array",
+        "two_pointers",
+        "greedy"
+    ],
+    "1233_Remove_Sub-Folders_from_the_Filesystem.py": [
+        "array",
+        "string",
+        "trie",
+        "recursion",
+        "depth_first_search"
+    ],
+    "1261_Find_Elements_in_a_Contaminated_Binary_Tree.py": [
+        "binary_tree",
+        "recursion",
+        "hashset",
+        "design",
+        "implementation"
+    ],
+    "1268_Search_Suggestions_System.py": [
+        "array",
+        "string",
+        "hashmap",
+        "trie",
+        "string_matching"
+    ],
+    "1277_Count_Square_Submatrices_with_All_Ones.py": [
+        "array",
+        "matrix",
+        "dp_2d",
+        "dp_multidimensional"
+    ],
+    "1290_Convert_Binary_Number_in_a_Linked_List_to_Integer.py": [
+        "linked_list",
+        "bit_manipulation"
+    ],
+    "1298_Maximum_Candies_You_Can_Get_from_Boxes.py": [
+        "array",
+        "queue",
+        "graph",
+        "breadth_first_search"
+    ],
+    "1318_Minimum_Flips_to_Make_a_OR_b_Equal_to_c.py": [
+        "bit_manipulation",
+        "counting"
+    ],
+    "1331_Rank_Transform_of_an_Array.py": [
+        "array",
+        "greedy",
+        "other",
+        "hashmap"
+    ],
+    "1358_Number_of_Substrings_Containing_All_Three_Characters.py": [
+        "array",
+        "string",
+        "hashmap",
+        "sliding_window",
+        "two_pointers"
+    ],
+    "1394_Find_Lucky_Integer_in_an_Array.py": [
+        "array",
+        "counting",
+        "hashmap"
+    ],
+    "1429_First_Unique_Number.py": [
+        "array",
+        "hashmap",
+        "linked_list",
+        "design",
+        "implementation"
+    ],
+    "1431_Kids_With_the_Greatest_Number_of_Candies.py": [
+        "array",
+        "greedy"
+    ],
+    "1456_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.py": [
+        "array",
+        "string",
+        "greedy",
+        "sliding_window",
+        "two_pointers"
+    ],
+    "1466_Reorder_Routes_to_Make_All_Paths_Lead_to_the_City_Zero.py": [
+        "array",
+        "graph",
+        "depth_first_search",
+        "recursion"
+    ],
+    "1493_Longest_Subarray_of_1's_After_Deleting_One_Element.py": [
+        "array",
+        "greedy",
+        "sliding_window",
+        "two_pointers"
+    ],
+    "1524_Number_of_Sub-arrays_With_Odd_Sum.py": [
+        "array",
+        "prefix_sum",
+        "counting"
+    ],
+    "1550_Three_Consecutive_Odds.py": [
+        "array",
+        "greedy"
+    ],
+    "1574_Shortest_Subarray_to_be_Removed_to_Make_Array_Sorted.py": [
+        "array",
+        "two_pointers",
+        "greedy"
+    ],
+    "1634_Add_Two_Polynomials_Represented_as_Linked_Lists.py": [
+        "linked_list",
+        "two_pointers"
+    ],
+    "1652_Defuse_the_Bomb.py": [
+        "array",
+        "prefix_sum"
+    ],
+    "1657_Determine_if_Two_Strings_Are_Close.py": [
+        "array",
+        "string",
+        "hashmap",
+        "counting"
+    ],
+    "1679_Max_Number_of_K-Sum_Pairs.py": [
+        "array",
+        "hashmap",
+        "greedy"
+    ],
+    "1695_Maximum_Erasure_Value.py": [
+        "array",
+        "greedy",
+        "sliding_window",
+        "hashset",
+        "two_pointers"
+    ],
+    "1732_Find_the_Highest_Altitude.py": [
+        "array",
+        "greedy"
+    ],
+    "1768_Merge_Strings_Alternately.py": [
+        "array",
+        "string",
+        "two_pointers"
+    ],
+    "1780_Check_if_Number_is_a_Sum_of_Powers_of_Three.py": [
+        "math"
+    ],
+    "1829_Maximum_XOR_for_Each_Query.py": [
+        "array",
+        "bit_manipulation",
+        "greedy"
+    ],
+    "1861_Rotating_the_Box.py": [
+        "array",
+        "matrix",
+        "simulation"
+    ],
+    "1926_Nearest_Exit_from_Entrance_in_Maze.py": [
+        "array",
+        "queue",
+        "shortest_path",
+        "matrix",
+        "breadth_first_search"
+    ],
+    "1975_Maximum_Matrix_Sum.py": [
+        "array",
+        "math",
+        "greedy"
+    ],
+    "2064_Minimized_Maximum_of_Products_Distributed_to_Any_Store.py": [
+        "array",
+        "binary_search",
+        "math"
+    ],
+    "2070_Most_Beautiful_Item_for_Each_Query.py": [
+        "array",
+        "greedy",
+        "binary_search"
+    ],
+    "2095_Delete_the_Middle_Node_of_a_Linked_List.py": [
+        "linked_list",
+        "two_pointers"
+    ],
+    "2107_Number_of_Unique_Flavors_After_Sharing_K_Candies.py": [
+        "array",
+        "greedy",
+        "counting",
+        "hashmap"
+    ],
+    "2130_Maximum_Twin_Sum_of_a_Linked_List.py": [
+        "array",
+        "greedy",
+        "linked_list"
+    ],
+    "2131_Longest_Palindrome_by_Concatenating_Two_Letter_Words.py": [
+        "array",
+        "string",
+        "hashmap",
+        "greedy"
+    ],
+    "2161_Partition_Array_According_to_Given_Pivot.py": [
+        "array",
+        "greedy"
+    ],
+    "2210_Count_Hills_and_Valleys_in_an_Array.py": [
+        "array",
+        "greedy",
+        "two_pointers"
+    ],
+    "2215_Find_the_Difference_of_Two_Arrays.py": [
+        "array",
+        "hashset"
+    ],
+    "2275_Largest_Combination_With_Bitwise_AND_Greater_Than_Zero.py": [
+        "array",
+        "bit_manipulation",
+        "greedy"
+    ],
+    "2352_Equal_Row_and_Column_Pairs.py": [
+        "array",
+        "hashmap",
+        "matrix",
+        "counting"
+    ],
+    "2410_Maximum_Matching_of_Players_With_Trainers.py": [
+        "array",
+        "greedy",
+        "two_pointers"
+    ],
+    "2458_Height_of_Binary_Tree_After_Subtree_Removal_Queries.py": [
+        "binary_tree",
+        "depth_first_search",
+        "recursion",
+        "hashmap"
+    ],
+    "2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K.py": [
+        "array",
+        "greedy",
+        "sliding_window",
+        "hashmap",
+        "two_pointers"
+    ],
+    "2463_Minimum_Total_Distance_Traveled.py": [
+        "array",
+        "dp_2d",
+        "greedy"
+    ],
+    "2490_Circular_Sentence.py": [
+        "string",
+        "two_pointers"
+    ],
+    "2516_Take_K_of_Each_Character_From_Left_and_Right.py": [
+        "array",
+        "string",
+        "greedy",
+        "sliding_window",
+        "two_pointers"
+    ],
+    "2529_Maximum_Count_of_Positive_Integer_and_Negative_Integer.py": [
+        "array",
+        "binary_search",
+        "greedy"
+    ],
+    "2563_Count_the_Number_of_Fair_Pairs.py": [
+        "array",
+        "two_pointers",
+        "greedy"
+    ],
+    "2570_Merge_Two_2D_Arrays_by_Summing_Values.py": [
+        "array",
+        "greedy",
+        "two_pointers"
+    ],
+    "2579_Count_Total_Number_of_Colored_Cells.py": [
+        "array",
+        "math"
+    ],
+    "2583_Kth_Largest_Sum_in_a_Binary_Tree.py": [
+        "binary_tree",
+        "breadth_first_search",
+        "heap",
+        "queue"
+    ],
+    "2601_Prime_Subtraction_Operation.py": [
+        "array",
+        "math",
+        "greedy"
+    ],
+    "2641_Cousins_in_Binary_Tree_II.py": [
+        "binary_tree",
+        "queue",
+        "breadth_first_search"
+    ],
+    "2664_The_Knight\u2019s_Tour.py": [
+        "backtracking",
+        "depth_first_search",
+        "recursion",
+        "array",
+        "matrix"
+    ],
+    "2684_Maximum_Number_of_Moves_in_a_Grid.py": [
+        "array",
+        "matrix",
+        "dp_2d",
+        "greedy"
+    ],
+    "2914_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.py": [
+        "array",
+        "string",
+        "greedy"
+    ],
+    "2918_Minimum_Equal_Sum_of_Two_Arrays_After_Replacing_Zeros.py": [
+        "array",
+        "greedy"
+    ],
+    "2924_Find_Champion_II.py": [
+        "array",
+        "graph",
+        "hashmap"
+    ],
+    "2929_Distribute_Candies_Among_Children_II.py": [
+        "array",
+        "greedy",
+        "math",
+        "enumeration"
+    ],
+    "2955_Number_of_Same-End_Substrings.py": [
+        "array",
+        "string",
+        "prefix_sum",
+        "counting"
+    ],
+    "3011_Find_if_Array_Can_Be_Sorted.py": [
+        "array",
+        "greedy",
+        "bit_manipulation"
+    ],
+    "3097_Shortest_Subarray_With_OR_at_Least_K_II.py": [
+        "array",
+        "greedy",
+        "sliding_window",
+        "bit_manipulation"
+    ],
+    "3133_Minimum_Array_End.py": [
+        "array",
+        "bit_manipulation",
+        "greedy"
+    ],
+    "3136_Valid_Word.py": [
+        "string",
+        "other"
+    ],
+    "3163_String_Compression_III.py": [
+        "array",
+        "string",
+        "greedy"
+    ],
+    "3201_Find_the_Maximum_Length_of_Valid_Subsequence_I.py": [
+        "array",
+        "greedy"
+    ],
+    "3243_Shortest_Distance_After_Road_Addition_Queries_I.py": [
+        "array",
+        "graph",
+        "shortest_path",
+        "simulation"
+    ],
+    "3254_Find_the_Power_of_K-Size_Subarrays_I.py": [
+        "array",
+        "sliding_window",
+        "two_pointers"
+    ],
+    "3306_Count_of_Substrings_Containing_Every_Vowel_and_K_Consonants_II.py": [
+        "array",
+        "string",
+        "hashmap",
+        "sliding_window",
+        "two_pointers",
+        "counting"
+    ],
+    "3319_K-th_Largest_Perfect_Subtree_Size_in_Binary_Tree.py": [
+        "binary_tree",
+        "depth_first_search",
+        "recursion"
+    ],
+    "3330_Find_the_Original_Typed_String_I.py": [
+        "array",
+        "string",
+        "greedy"
+    ],
+    "3335_Tota_Characters_in_String_After_Transformations_I.py": [
+        "array",
+        "string",
+        "queue",
+        "counting"
+    ],
+    "3341_Find_Minimum_Time_to_Reach_Last_Room_I.py": [
+        "array",
+        "heap",
+        "shortest_path",
+        "matrix",
+        "simulation"
+    ],
+    "3342_Find_Minimum_Time_to_Reach_Last_Room_II.py": [
+        "array",
+        "shortest_path",
+        "heap",
+        "matrix",
+        "simulation"
+    ],
+    "3355_Zero_Array_Transformation_I.py": [
+        "array",
+        "prefix_sum",
+        "greedy"
+    ],
+    "3403_Find_the_Lexicographically_Largest_String_From_the_Box_I.py": [
+        "string",
+        "greedy"
+    ],
+    "3442_Maximum_Difference_Between_Even_and_Odd_Frequency_I.py": [
+        "array",
+        "string",
+        "hashmap",
+        "counting",
+        "greedy"
+    ]
+}
