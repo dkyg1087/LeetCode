@@ -13,4 +13,4 @@ This repository contains my personal LeetCode problem solutions, organized by ta
 
 ## Tags
 
-👉 [Browse all tags](tags/index.md)
+👉 [Browse all tags](Tags/index.md)
