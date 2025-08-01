@@ -1,6 +1,6 @@
 # Math
 
-**20 problems with this tag.**
+**21 problems with this tag.**
 
 ### Problems
 
@@ -9,6 +9,7 @@
 - [67_Add_Binary](..\..\Problems\67_Add_Binary.py)
 - [69_Sqrt(x)](..\..\Problems\69_Sqrt(x).py)
 - [70_Climbing_Stairs](..\..\Problems\70_Climbing_Stairs.py)
+- [118_Pascal's_Triangle](..\..\Problems\118_Pascal's_Triangle.py)
 - [150_Evaluate_Reverse_Polish_Notation](..\..\Problems\150_Evaluate_Reverse_Polish_Notation.py)
 - [172_Factorial_Trailing_Zeroes](..\..\Problems\172_Factorial_Trailing_Zeroes.py)
 - [202_Happy_Number](..\..\Problems\202_Happy_Number.py)

@@ -1,10 +1,11 @@
 # Simulation
 
-**10 problems with this tag.**
+**11 problems with this tag.**
 
 ### Problems
 
 - [54_Spiral_Matrix](..\..\Problems\54_Spiral_Matrix.py)
+- [118_Pascal's_Triangle](..\..\Problems\118_Pascal's_Triangle.py)
 - [202_Happy_Number](..\..\Problems\202_Happy_Number.py)
 - [289_Game_of_Life](..\..\Problems\289_Game_of_Life.py)
 - [649_Dota2_Senate](..\..\Problems\649_Dota2_Senate.py)

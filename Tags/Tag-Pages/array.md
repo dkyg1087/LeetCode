@@ -1,6 +1,6 @@
 # Array
 
-**159 problems with this tag.**
+**160 problems with this tag.**
 
 ### Problems
 
@@ -36,6 +36,7 @@
 - [79_Word_Search](..\..\Problems\79_Word_Search.py)
 - [88_Merge_Sorted_Array](..\..\Problems\88_Merge_Sorted_Array.py)
 - [108_Convert_Sorted_Array_to_Binary_Search_Tree](..\..\Problems\108_Convert_Sorted_Array_to_Binary_Search_Tree.py)
+- [118_Pascal's_Triangle](..\..\Problems\118_Pascal's_Triangle.py)
 - [120_Triangle](..\..\Problems\120_Triangle.py)
 - [121_Best_Time_to_Buy_and_Sell_Stock](..\..\Problems\121_Best_Time_to_Buy_and_Sell_Stock.py)
 - [125_Valid_Palindrome](..\..\Problems\125_Valid_Palindrome.py)

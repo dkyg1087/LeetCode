@@ -262,6 +262,12 @@
         "linked_list",
         "breadth_first_search"
     ],
+    "118_Pascal's_Triangle.py": [
+        "array",
+        "math",
+        "simulation",
+        "implementation"
+    ],
     "120_Triangle.py": [
         "array",
         "dp_1d",
