@@ -367,9 +367,8 @@
         "implementation"
     ],
     "162_Find_Peak_Element.py": [
-        "array",
         "binary_search",
-        "greedy"
+        "array"
     ],
     "167_Two_Sum_II_-_Input_Array_Is_Sorted.py": [
         "array",
@@ -567,6 +566,9 @@
         "string",
         "two_pointers"
     ],
+    "374_Guess_Number_Higher_or_Lower.py": [
+        "binary_search"
+    ],
     "383_Ransom_Note.py": [
         "array",
         "string",
@@ -703,6 +705,11 @@
         "breadth_first_search",
         "queue",
         "hashset"
+    ],
+    "875_Koko_Eating_Bananas.py": [
+        "binary_search",
+        "array",
+        "math"
     ],
     "901_Online_Stock_Span.py": [
         "monotonic_stack",
@@ -983,6 +990,10 @@
         "array",
         "bit_manipulation",
         "greedy"
+    ],
+    "2300_Successful_Pairs_of_Spells_and_Potions.py": [
+        "array",
+        "binary_search"
     ],
     "2352_Equal_Row_and_Column_Pairs.py": [
         "array",

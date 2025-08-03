@@ -1,6 +1,6 @@
 # Math
 
-**21 problems with this tag.**
+**22 problems with this tag.**
 
 ### Problems
 
@@ -17,6 +17,7 @@
 - [241_Different_Ways_to_Add_Parentheses](..\..\Problems\241_Different_Ways_to_Add_Parentheses.py)
 - [322_Coin_Change](..\..\Problems\322_Coin_Change.py)
 - [790_Domino_and_Tromino_Tiling](..\..\Problems\790_Domino_and_Tromino_Tiling.py)
+- [875. Koko Eating Bananas](..\..\Problems\875_Koko_Eating_Bananas.py)
 - [1071_Greatest_Common_Divisor_of_Strings](..\..\Problems\1071_Greatest_Common_Divisor_of_Strings.py)
 - [1137_N-th_Tribonacci_Number](..\..\Problems\1137_N-th_Tribonacci_Number.py)
 - [1780_Check_if_Number_is_a_Sum_of_Powers_of_Three](..\..\Problems\1780_Check_if_Number_is_a_Sum_of_Powers_of_Three.py)

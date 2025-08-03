@@ -1,6 +1,6 @@
 # Array
 
-**160 problems with this tag.**
+**162 problems with this tag.**
 
 ### Problems
 
@@ -89,6 +89,7 @@
 - [773_Sliding_Puzzle](..\..\Problems\773_Sliding_Puzzle.py)
 - [790_Domino_and_Tromino_Tiling](..\..\Problems\790_Domino_and_Tromino_Tiling.py)
 - [796_Rotate_String](..\..\Problems\796_Rotate_String.py)
+- [875. Koko Eating Bananas](..\..\Problems\875_Koko_Eating_Bananas.py)
 - [901_Online_Stock_Span](..\..\Problems\901_Online_Stock_Span.py)
 - [918_Maximum_Sum_Circular_Subarray](..\..\Problems\918_Maximum_Sum_Circular_Subarray.py)
 - [994_Rotting_Oranges](..\..\Problems\994_Rotting_Oranges.py)
@@ -132,6 +133,7 @@
 - [2210_Count_Hills_and_Valleys_in_an_Array](..\..\Problems\2210_Count_Hills_and_Valleys_in_an_Array.py)
 - [2215_Find_the_Difference_of_Two_Arrays](..\..\Problems\2215_Find_the_Difference_of_Two_Arrays.py)
 - [2275_Largest_Combination_With_Bitwise_AND_Greater_Than_Zero](..\..\Problems\2275_Largest_Combination_With_Bitwise_AND_Greater_Than_Zero.py)
+- [2300. Successful Pairs of Spells and Potions](..\..\Problems\2300_Successful_Pairs_of_Spells_and_Potions.py)
 - [2352_Equal_Row_and_Column_Pairs](..\..\Problems\2352_Equal_Row_and_Column_Pairs.py)
 - [2410_Maximum_Matching_of_Players_With_Trainers](..\..\Problems\2410_Maximum_Matching_of_Players_With_Trainers.py)
 - [2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K](..\..\Problems\2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K.py)
