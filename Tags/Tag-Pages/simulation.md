@@ -1,6 +1,6 @@
 # Simulation
 
-**11 problems with this tag.**
+**12 problems with this tag.**
 
 ### Problems
 
@@ -15,3 +15,4 @@
 - [3243_Shortest_Distance_After_Road_Addition_Queries_I](..\..\Problems\3243_Shortest_Distance_After_Road_Addition_Queries_I.py)
 - [3341_Find_Minimum_Time_to_Reach_Last_Room_I](..\..\Problems\3341_Find_Minimum_Time_to_Reach_Last_Room_I.py)
 - [3342_Find_Minimum_Time_to_Reach_Last_Room_II](..\..\Problems\3342_Find_Minimum_Time_to_Reach_Last_Room_II.py)
+- [3477. Fruits Into Baskets II](..\..\Problems\3477_Fruits_Into_Baskets_II.py)

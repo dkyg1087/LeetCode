@@ -1202,5 +1202,9 @@
         "hashmap",
         "counting",
         "greedy"
+    ],
+    "3477_Fruits_Into_Baskets_II.py": [
+        "array",
+        "simulation"
     ]
 }

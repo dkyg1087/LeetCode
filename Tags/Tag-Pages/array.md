@@ -1,6 +1,6 @@
 # Array
 
-**162 problems with this tag.**
+**163 problems with this tag.**
 
 ### Problems
 
@@ -165,3 +165,4 @@
 - [3342_Find_Minimum_Time_to_Reach_Last_Room_II](..\..\Problems\3342_Find_Minimum_Time_to_Reach_Last_Room_II.py)
 - [3355_Zero_Array_Transformation_I](..\..\Problems\3355_Zero_Array_Transformation_I.py)
 - [3442_Maximum_Difference_Between_Even_and_Odd_Frequency_I](..\..\Problems\3442_Maximum_Difference_Between_Even_and_Odd_Frequency_I.py)
+- [3477. Fruits Into Baskets II](..\..\Problems\3477_Fruits_Into_Baskets_II.py)
