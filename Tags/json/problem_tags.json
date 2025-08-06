@@ -605,6 +605,13 @@
         "two_pointers",
         "greedy"
     ],
+    "437_Path_Sum_III.py": [
+        "depth_first_search",
+        "prefix_sum",
+        "recursion",
+        "hashmap",
+        "binary_tree"
+    ],
     "443_String_Compression.py": [
         "array",
         "string",
@@ -705,6 +712,11 @@
         "breadth_first_search",
         "queue",
         "hashset"
+    ],
+    "872_Leaf-Similar_Trees.py": [
+        "depth_first_search",
+        "recursion",
+        "binary_tree"
     ],
     "875_Koko_Eating_Bananas.py": [
         "binary_search",
@@ -833,6 +845,11 @@
         "sliding_window",
         "two_pointers"
     ],
+    "1372_Longest_ZigZag_Path_in_a_Binary_Tree.py": [
+        "depth_first_search",
+        "recursion",
+        "binary_tree"
+    ],
     "1394_Find_Lucky_Integer_in_an_Array.py": [
         "array",
         "counting",
@@ -848,6 +865,11 @@
     "1431_Kids_With_the_Greatest_Number_of_Candies.py": [
         "array",
         "greedy"
+    ],
+    "1448_Count_Good_Nodes_in_Binary_Tree.py": [
+        "depth_first_search",
+        "recursion",
+        "binary_tree"
     ],
     "1456_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.py": [
         "array",

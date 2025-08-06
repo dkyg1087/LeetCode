@@ -1,6 +1,6 @@
 # Binary Tree
 
-**29 problems with this tag.**
+**33 problems with this tag.**
 
 ### Problems
 
@@ -22,13 +22,17 @@
 - [230_Kth_Smallest_Element_in_a_BST](..\..\Problems\230_Kth_Smallest_Element_in_a_BST.py)
 - [236_Lowest_Common_Ancestor_of_a_Binary_Tree](..\..\Problems\236_Lowest_Common_Ancestor_of_a_Binary_Tree.py)
 - [285_Inorder_Successor_in_BST](..\..\Problems\285_Inorder_Successor_in_BST.py)
+- [437. Path Sum III](..\..\Problems\437_Path_Sum_III.py)
 - [450_Delete_Node_in_a_BST](..\..\Problems\450_Delete_Node_in_a_BST.py)
 - [530_Minimum_Absolute_Difference_in_BST](..\..\Problems\530_Minimum_Absolute_Difference_in_BST.py)
 - [637_Average_of_Levels_in_Binary_Tree](..\..\Problems\637_Average_of_Levels_in_Binary_Tree.py)
 - [700_Search_in_a_Binary_Search_Tree](..\..\Problems\700_Search_in_a_Binary_Search_Tree.py)
+- [872. Leaf-Similar Trees](..\..\Problems\872_Leaf-Similar_Trees.py)
 - [951_Flip_Equivalent_Binary_Trees](..\..\Problems\951_Flip_Equivalent_Binary_Trees.py)
 - [1161_Maximum_Level_Sum_of_a_Binary_Tree](..\..\Problems\1161_Maximum_Level_Sum_of_a_Binary_Tree.py)
 - [1261_Find_Elements_in_a_Contaminated_Binary_Tree](..\..\Problems\1261_Find_Elements_in_a_Contaminated_Binary_Tree.py)
+- [1372. Longest ZigZag Path in a Binary Tree](..\..\Problems\1372_Longest_ZigZag_Path_in_a_Binary_Tree.py)
+- [1448. Count Good Nodes in Binary Tree](..\..\Problems\1448_Count_Good_Nodes_in_Binary_Tree.py)
 - [2458_Height_of_Binary_Tree_After_Subtree_Removal_Queries](..\..\Problems\2458_Height_of_Binary_Tree_After_Subtree_Removal_Queries.py)
 - [2583_Kth_Largest_Sum_in_a_Binary_Tree](..\..\Problems\2583_Kth_Largest_Sum_in_a_Binary_Tree.py)
 - [2641_Cousins_in_Binary_Tree_II](..\..\Problems\2641_Cousins_in_Binary_Tree_II.py)

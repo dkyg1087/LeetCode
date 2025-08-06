@@ -1,9 +1,10 @@
 # Prefix Sum
 
-**6 problems with this tag.**
+**7 problems with this tag.**
 
 ### Problems
 
+- [437. Path Sum III](..\..\Problems\437_Path_Sum_III.py)
 - [724_Find_Pivot_Index](..\..\Problems\724_Find_Pivot_Index.py)
 - [918_Maximum_Sum_Circular_Subarray](..\..\Problems\918_Maximum_Sum_Circular_Subarray.py)
 - [1524_Number_of_Sub-arrays_With_Odd_Sum](..\..\Problems\1524_Number_of_Sub-arrays_With_Odd_Sum.py)

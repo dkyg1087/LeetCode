@@ -1,6 +1,6 @@
 # Hashmap
 
-**33 problems with this tag.**
+**34 problems with this tag.**
 
 ### Problems
 
@@ -19,6 +19,7 @@
 - [290_Word_Pattern](..\..\Problems\290_Word_Pattern.py)
 - [383_Ransom_Note](..\..\Problems\383_Ransom_Note.py)
 - [399_Evaluate_Division](..\..\Problems\399_Evaluate_Division.py)
+- [437. Path Sum III](..\..\Problems\437_Path_Sum_III.py)
 - [1061_Lexicographically_Smallest_Equivalent_String](..\..\Problems\1061_Lexicographically_Smallest_Equivalent_String.py)
 - [1072_Flip_Columns_For_Maximum_Number_of_Equal_Rows](..\..\Problems\1072_Flip_Columns_For_Maximum_Number_of_Equal_Rows.py)
 - [1207_Unique_Number_of_Occurrences](..\..\Problems\1207_Unique_Number_of_Occurrences.py)

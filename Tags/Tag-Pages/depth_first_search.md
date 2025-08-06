@@ -1,6 +1,6 @@
 # Depth First Search
 
-**28 problems with this tag.**
+**32 problems with this tag.**
 
 ### Problems
 
@@ -23,11 +23,15 @@
 - [241_Different_Ways_to_Add_Parentheses](..\..\Problems\241_Different_Ways_to_Add_Parentheses.py)
 - [285_Inorder_Successor_in_BST](..\..\Problems\285_Inorder_Successor_in_BST.py)
 - [399_Evaluate_Division](..\..\Problems\399_Evaluate_Division.py)
+- [437. Path Sum III](..\..\Problems\437_Path_Sum_III.py)
 - [530_Minimum_Absolute_Difference_in_BST](..\..\Problems\530_Minimum_Absolute_Difference_in_BST.py)
 - [700_Search_in_a_Binary_Search_Tree](..\..\Problems\700_Search_in_a_Binary_Search_Tree.py)
+- [872. Leaf-Similar Trees](..\..\Problems\872_Leaf-Similar_Trees.py)
 - [951_Flip_Equivalent_Binary_Trees](..\..\Problems\951_Flip_Equivalent_Binary_Trees.py)
 - [1161_Maximum_Level_Sum_of_a_Binary_Tree](..\..\Problems\1161_Maximum_Level_Sum_of_a_Binary_Tree.py)
 - [1233_Remove_Sub-Folders_from_the_Filesystem](..\..\Problems\1233_Remove_Sub-Folders_from_the_Filesystem.py)
+- [1372. Longest ZigZag Path in a Binary Tree](..\..\Problems\1372_Longest_ZigZag_Path_in_a_Binary_Tree.py)
+- [1448. Count Good Nodes in Binary Tree](..\..\Problems\1448_Count_Good_Nodes_in_Binary_Tree.py)
 - [1466_Reorder_Routes_to_Make_All_Paths_Lead_to_the_City_Zero](..\..\Problems\1466_Reorder_Routes_to_Make_All_Paths_Lead_to_the_City_Zero.py)
 - [2458_Height_of_Binary_Tree_After_Subtree_Removal_Queries](..\..\Problems\2458_Height_of_Binary_Tree_After_Subtree_Removal_Queries.py)
 - [2664_The_Knight’s_Tour](..\..\Problems\2664_The_Knight’s_Tour.py)
