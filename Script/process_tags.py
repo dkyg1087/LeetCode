@@ -51,7 +51,7 @@ def main():
         update_problem_tags(new_filename, tags_pred)
         move(RAW_DIR / new_filename, PROBLEM_DIR / new_filename)
         for tag in tags_pred:
-            update_tag_md(tag,filename.replace(".py", ""), "../.."/PROBLEM_DIR / new_filename)
+            update_tag_md(tag,filename.replace(".py", ""), ("../.."/PROBLEM_DIR / new_filename).as_posix())
         update_readme_md()
         
 if __name__ == "__main__":

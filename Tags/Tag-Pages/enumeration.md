@@ -4,4 +4,4 @@
 
 ### Problems
 
-- [2929_Distribute_Candies_Among_Children_II](..\..\Problems\2929_Distribute_Candies_Among_Children_II.py)
+- [2929_Distribute_Candies_Among_Children_II](../../Problems/2929_Distribute_Candies_Among_Children_II.py)
