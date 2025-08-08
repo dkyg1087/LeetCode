@@ -1,6 +1,6 @@
 # Hashset
 
-**12 problems with this tag.**
+**13 problems with this tag.**
 
 ### Problems
 
@@ -16,3 +16,4 @@
 - [1261_Find_Elements_in_a_Contaminated_Binary_Tree](..\..\Problems\1261_Find_Elements_in_a_Contaminated_Binary_Tree.py)
 - [1695_Maximum_Erasure_Value](..\..\Problems\1695_Maximum_Erasure_Value.py)
 - [2215_Find_the_Difference_of_Two_Arrays](..\..\Problems\2215_Find_the_Difference_of_Two_Arrays.py)
+- [2336. Smallest Number in Infinite Set](..\..\Problems\2336_Smallest_Number_in_Infinite_Set.py)

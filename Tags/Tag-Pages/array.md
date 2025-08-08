@@ -1,6 +1,6 @@
 # Array
 
-**163 problems with this tag.**
+**164 problems with this tag.**
 
 ### Problems
 
@@ -137,6 +137,7 @@
 - [2352_Equal_Row_and_Column_Pairs](..\..\Problems\2352_Equal_Row_and_Column_Pairs.py)
 - [2410_Maximum_Matching_of_Players_With_Trainers](..\..\Problems\2410_Maximum_Matching_of_Players_With_Trainers.py)
 - [2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K](..\..\Problems\2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K.py)
+- [2462. Total Cost to Hire K Workers](..\..\Problems\2462_Total_Cost_to_Hire_K_Workers.py)
 - [2463_Minimum_Total_Distance_Traveled](..\..\Problems\2463_Minimum_Total_Distance_Traveled.py)
 - [2516_Take_K_of_Each_Character_From_Left_and_Right](..\..\Problems\2516_Take_K_of_Each_Character_From_Left_and_Right.py)
 - [2529_Maximum_Count_of_Positive_Integer_and_Negative_Integer](..\..\Problems\2529_Maximum_Count_of_Positive_Integer_and_Negative_Integer.py)

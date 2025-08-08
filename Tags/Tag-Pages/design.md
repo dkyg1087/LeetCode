@@ -1,6 +1,6 @@
 # Design
 
-**8 problems with this tag.**
+**9 problems with this tag.**
 
 ### Problems
 
@@ -12,3 +12,4 @@
 - [901_Online_Stock_Span](..\..\Problems\901_Online_Stock_Span.py)
 - [1261_Find_Elements_in_a_Contaminated_Binary_Tree](..\..\Problems\1261_Find_Elements_in_a_Contaminated_Binary_Tree.py)
 - [1429_First_Unique_Number](..\..\Problems\1429_First_Unique_Number.py)
+- [2336. Smallest Number in Infinite Set](..\..\Problems\2336_Smallest_Number_in_Infinite_Set.py)

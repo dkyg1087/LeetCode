@@ -1,6 +1,6 @@
 # Two Pointers
 
-**51 problems with this tag.**
+**52 problems with this tag.**
 
 ### Problems
 
@@ -49,6 +49,7 @@
 - [2210_Count_Hills_and_Valleys_in_an_Array](..\..\Problems\2210_Count_Hills_and_Valleys_in_an_Array.py)
 - [2410_Maximum_Matching_of_Players_With_Trainers](..\..\Problems\2410_Maximum_Matching_of_Players_With_Trainers.py)
 - [2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K](..\..\Problems\2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K.py)
+- [2462. Total Cost to Hire K Workers](..\..\Problems\2462_Total_Cost_to_Hire_K_Workers.py)
 - [2490_Circular_Sentence](..\..\Problems\2490_Circular_Sentence.py)
 - [2516_Take_K_of_Each_Character_From_Left_and_Right](..\..\Problems\2516_Take_K_of_Each_Character_From_Left_and_Right.py)
 - [2563. Count the Number of Fair Pairs](..\..\Problems\2563_Count_the_Number_of_Fair_Pairs.py)

@@ -1,6 +1,6 @@
 # Simulation
 
-**12 problems with this tag.**
+**13 problems with this tag.**
 
 ### Problems
 
@@ -12,6 +12,7 @@
 - [773_Sliding_Puzzle](..\..\Problems\773_Sliding_Puzzle.py)
 - [994_Rotting_Oranges](..\..\Problems\994_Rotting_Oranges.py)
 - [1861_Rotating_the_Box](..\..\Problems\1861_Rotating_the_Box.py)
+- [2336. Smallest Number in Infinite Set](..\..\Problems\2336_Smallest_Number_in_Infinite_Set.py)
 - [3243_Shortest_Distance_After_Road_Addition_Queries_I](..\..\Problems\3243_Shortest_Distance_After_Road_Addition_Queries_I.py)
 - [3341_Find_Minimum_Time_to_Reach_Last_Room_I](..\..\Problems\3341_Find_Minimum_Time_to_Reach_Last_Room_I.py)
 - [3342_Find_Minimum_Time_to_Reach_Last_Room_II](..\..\Problems\3342_Find_Minimum_Time_to_Reach_Last_Room_II.py)
