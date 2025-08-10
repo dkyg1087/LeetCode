@@ -1,6 +1,6 @@
 # Bit Manipulation
 
-**15 problems with this tag.**
+**16 problems with this tag.**
 
 ### Problems
 
@@ -10,6 +10,7 @@
 - [190_Reverse_Bits](../../Problems/190_Reverse_Bits.py)
 - [191_Number_of_1_Bits](../../Problems/191_Number_of_1_Bits.py)
 - [201_Bitwise_AND_of_Numbers_Range](../../Problems/201_Bitwise_AND_of_Numbers_Range.py)
+- [231. Power of Two](../../Problems/231_Power_of_Two.py)
 - [338_Counting_Bits](../../Problems/338_Counting_Bits.py)
 - [1072_Flip_Columns_For_Maximum_Number_of_Equal_Rows](../../Problems/1072_Flip_Columns_For_Maximum_Number_of_Equal_Rows.py)
 - [1290_Convert_Binary_Number_in_a_Linked_List_to_Integer](../../Problems/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer.py)

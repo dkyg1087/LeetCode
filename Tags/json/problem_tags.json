@@ -488,6 +488,10 @@
         "binary_search_tree",
         "depth_first_search"
     ],
+    "231_Power_of_Two.py": [
+        "bit_manipulation",
+        "math"
+    ],
     "236_Lowest_Common_Ancestor_of_a_Binary_Tree.py": [
         "binary_tree",
         "recursion",

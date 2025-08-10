@@ -1,6 +1,6 @@
 # Math
 
-**22 problems with this tag.**
+**23 problems with this tag.**
 
 ### Problems
 
@@ -13,6 +13,7 @@
 - [150_Evaluate_Reverse_Polish_Notation](../../Problems/150_Evaluate_Reverse_Polish_Notation.py)
 - [172_Factorial_Trailing_Zeroes](../../Problems/172_Factorial_Trailing_Zeroes.py)
 - [202_Happy_Number](../../Problems/202_Happy_Number.py)
+- [231. Power of Two](../../Problems/231_Power_of_Two.py)
 - [238_Product_of_Array_Except_Self](../../Problems/238_Product_of_Array_Except_Self.py)
 - [241_Different_Ways_to_Add_Parentheses](../../Problems/241_Different_Ways_to_Add_Parentheses.py)
 - [322_Coin_Change](../../Problems/322_Coin_Change.py)
