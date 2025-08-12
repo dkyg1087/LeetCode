@@ -1,6 +1,6 @@
 # Bit Manipulation
 
-**16 problems with this tag.**
+**17 problems with this tag.**
 
 ### Problems
 
@@ -17,6 +17,7 @@
 - [1318_Minimum_Flips_to_Make_a_OR_b_Equal_to_c](../../Problems/1318_Minimum_Flips_to_Make_a_OR_b_Equal_to_c.py)
 - [1829_Maximum_XOR_for_Each_Query](../../Problems/1829_Maximum_XOR_for_Each_Query.py)
 - [2275_Largest_Combination_With_Bitwise_AND_Greater_Than_Zero](../../Problems/2275_Largest_Combination_With_Bitwise_AND_Greater_Than_Zero.py)
+- [2438. Range Product Queries of Powers](../../Problems/2438_Range_Product_Queries_of_Powers.py)
 - [3011_Find_if_Array_Can_Be_Sorted](../../Problems/3011_Find_if_Array_Can_Be_Sorted.py)
 - [3097_Shortest_Subarray_With_OR_at_Least_K_II](../../Problems/3097_Shortest_Subarray_With_OR_at_Least_K_II.py)
 - [3133_Minimum_Array_End](../../Problems/3133_Minimum_Array_End.py)

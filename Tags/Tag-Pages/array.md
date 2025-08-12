@@ -1,6 +1,6 @@
 # Array
 
-**164 problems with this tag.**
+**165 problems with this tag.**
 
 ### Problems
 
@@ -136,6 +136,7 @@
 - [2300. Successful Pairs of Spells and Potions](../../Problems/2300_Successful_Pairs_of_Spells_and_Potions.py)
 - [2352_Equal_Row_and_Column_Pairs](../../Problems/2352_Equal_Row_and_Column_Pairs.py)
 - [2410_Maximum_Matching_of_Players_With_Trainers](../../Problems/2410_Maximum_Matching_of_Players_With_Trainers.py)
+- [2438. Range Product Queries of Powers](../../Problems/2438_Range_Product_Queries_of_Powers.py)
 - [2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K](../../Problems/2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K.py)
 - [2462. Total Cost to Hire K Workers](../../Problems/2462_Total_Cost_to_Hire_K_Workers.py)
 - [2463_Minimum_Total_Distance_Traveled](../../Problems/2463_Minimum_Total_Distance_Traveled.py)

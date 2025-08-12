@@ -1038,6 +1038,11 @@
         "greedy",
         "two_pointers"
     ],
+    "2438_Range_Product_Queries_of_Powers.py": [
+        "math",
+        "bit_manipulation",
+        "array"
+    ],
     "2458_Height_of_Binary_Tree_After_Subtree_Removal_Queries.py": [
         "binary_tree",
         "depth_first_search",
