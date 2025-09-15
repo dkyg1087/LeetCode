@@ -963,6 +963,12 @@
         "matrix",
         "breadth_first_search"
     ],
+    "1935_Maximum_Number_of_Words_You_Can_Type.py": [
+        "string",
+        "hashset",
+        "counting",
+        "implementation"
+    ],
     "1975_Maximum_Matrix_Sum.py": [
         "array",
         "math",

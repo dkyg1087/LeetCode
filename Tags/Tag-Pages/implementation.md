@@ -1,6 +1,6 @@
 # Implementation
 
-**9 problems with this tag.**
+**10 problems with this tag.**
 
 ### Problems
 
@@ -13,3 +13,4 @@
 - [901_Online_Stock_Span](../../Problems/901_Online_Stock_Span.py)
 - [1261_Find_Elements_in_a_Contaminated_Binary_Tree](../../Problems/1261_Find_Elements_in_a_Contaminated_Binary_Tree.py)
 - [1429_First_Unique_Number](../../Problems/1429_First_Unique_Number.py)
+- [1935. Maximum Number of Words You Can Type](../../Problems/1935_Maximum_Number_of_Words_You_Can_Type.py)

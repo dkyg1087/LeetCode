@@ -1,6 +1,6 @@
 # Counting
 
-**20 problems with this tag.**
+**21 problems with this tag.**
 
 ### Problems
 
@@ -18,6 +18,7 @@
 - [1394_Find_Lucky_Integer_in_an_Array](../../Problems/1394_Find_Lucky_Integer_in_an_Array.py)
 - [1524_Number_of_Sub-arrays_With_Odd_Sum](../../Problems/1524_Number_of_Sub-arrays_With_Odd_Sum.py)
 - [1657_Determine_if_Two_Strings_Are_Close](../../Problems/1657_Determine_if_Two_Strings_Are_Close.py)
+- [1935. Maximum Number of Words You Can Type](../../Problems/1935_Maximum_Number_of_Words_You_Can_Type.py)
 - [2107_Number_of_Unique_Flavors_After_Sharing_K_Candies](../../Problems/2107_Number_of_Unique_Flavors_After_Sharing_K_Candies.py)
 - [2352_Equal_Row_and_Column_Pairs](../../Problems/2352_Equal_Row_and_Column_Pairs.py)
 - [2955_Number_of_Same-End_Substrings](../../Problems/2955_Number_of_Same-End_Substrings.py)

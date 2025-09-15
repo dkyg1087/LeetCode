@@ -1,6 +1,6 @@
 # Hashset
 
-**13 problems with this tag.**
+**14 problems with this tag.**
 
 ### Problems
 
@@ -15,5 +15,6 @@
 - [841_Keys_and_Rooms](../../Problems/841_Keys_and_Rooms.py)
 - [1261_Find_Elements_in_a_Contaminated_Binary_Tree](../../Problems/1261_Find_Elements_in_a_Contaminated_Binary_Tree.py)
 - [1695_Maximum_Erasure_Value](../../Problems/1695_Maximum_Erasure_Value.py)
+- [1935. Maximum Number of Words You Can Type](../../Problems/1935_Maximum_Number_of_Words_You_Can_Type.py)
 - [2215_Find_the_Difference_of_Two_Arrays](../../Problems/2215_Find_the_Difference_of_Two_Arrays.py)
 - [2336. Smallest Number in Infinite Set](../../Problems/2336_Smallest_Number_in_Infinite_Set.py)

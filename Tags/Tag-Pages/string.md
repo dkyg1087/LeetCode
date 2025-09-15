@@ -1,6 +1,6 @@
 # String
 
-**48 problems with this tag.**
+**49 problems with this tag.**
 
 ### Problems
 
@@ -40,6 +40,7 @@
 - [1456_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length](../../Problems/1456_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.py)
 - [1657_Determine_if_Two_Strings_Are_Close](../../Problems/1657_Determine_if_Two_Strings_Are_Close.py)
 - [1768_Merge_Strings_Alternately](../../Problems/1768_Merge_Strings_Alternately.py)
+- [1935. Maximum Number of Words You Can Type](../../Problems/1935_Maximum_Number_of_Words_You_Can_Type.py)
 - [2131_Longest_Palindrome_by_Concatenating_Two_Letter_Words](../../Problems/2131_Longest_Palindrome_by_Concatenating_Two_Letter_Words.py)
 - [2490_Circular_Sentence](../../Problems/2490_Circular_Sentence.py)
 - [2516_Take_K_of_Each_Character_From_Left_and_Right](../../Problems/2516_Take_K_of_Each_Character_From_Left_and_Right.py)
