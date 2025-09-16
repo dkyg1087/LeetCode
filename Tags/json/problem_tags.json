@@ -116,6 +116,10 @@
         "linked_list",
         "two_pointers"
     ],
+    "62_Unique_Paths.py": [
+        "dp_2d",
+        "matrix"
+    ],
     "63_Unique_Paths_II.py": [
         "array",
         "matrix",
@@ -678,6 +682,10 @@
         "depth_first_search",
         "binary_search"
     ],
+    "714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.py": [
+        "dp_1d",
+        "array"
+    ],
     "724_Find_Pivot_Index.py": [
         "array",
         "prefix_sum"
@@ -1008,6 +1016,11 @@
     "2161_Partition_Array_According_to_Given_Pivot.py": [
         "array",
         "greedy"
+    ],
+    "2197_Replace_Non-Coprime_Numbers_in_Array.py": [
+        "array",
+        "math",
+        "stack"
     ],
     "2210_Count_Hills_and_Valleys_in_an_Array.py": [
         "array",

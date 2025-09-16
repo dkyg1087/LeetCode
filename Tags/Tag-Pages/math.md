@@ -1,6 +1,6 @@
 # Math
 
-**24 problems with this tag.**
+**25 problems with this tag.**
 
 ### Problems
 
@@ -24,6 +24,7 @@
 - [1780_Check_if_Number_is_a_Sum_of_Powers_of_Three](../../Problems/1780_Check_if_Number_is_a_Sum_of_Powers_of_Three.py)
 - [1975_Maximum_Matrix_Sum](../../Problems/1975_Maximum_Matrix_Sum.py)
 - [2064_Minimized_Maximum_of_Products_Distributed_to_Any_Store](../../Problems/2064_Minimized_Maximum_of_Products_Distributed_to_Any_Store.py)
+- [2197. Replace Non-Coprime Numbers in Array](../../Problems/2197_Replace_Non-Coprime_Numbers_in_Array.py)
 - [2438. Range Product Queries of Powers](../../Problems/2438_Range_Product_Queries_of_Powers.py)
 - [2579_Count_Total_Number_of_Colored_Cells](../../Problems/2579_Count_Total_Number_of_Colored_Cells.py)
 - [2601_Prime_Subtraction_Operation](../../Problems/2601_Prime_Subtraction_Operation.py)

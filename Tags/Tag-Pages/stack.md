@@ -1,6 +1,6 @@
 # Stack
 
-**10 problems with this tag.**
+**11 problems with this tag.**
 
 ### Problems
 
@@ -14,3 +14,4 @@
 - [394_Decode_String](../../Problems/394_Decode_String.py)
 - [739_Daily_Temperatures](../../Problems/739_Daily_Temperatures.py)
 - [901_Online_Stock_Span](../../Problems/901_Online_Stock_Span.py)
+- [2197. Replace Non-Coprime Numbers in Array](../../Problems/2197_Replace_Non-Coprime_Numbers_in_Array.py)

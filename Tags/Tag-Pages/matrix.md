@@ -1,12 +1,13 @@
 # Matrix
 
-**22 problems with this tag.**
+**23 problems with this tag.**
 
 ### Problems
 
 - [36_Valid_Sudoku](../../Problems/36_Valid_Sudoku.py)
 - [48_Rotate_Image](../../Problems/48_Rotate_Image.py)
 - [54_Spiral_Matrix](../../Problems/54_Spiral_Matrix.py)
+- [62. Unique Paths](../../Problems/62_Unique_Paths.py)
 - [63_Unique_Paths_II](../../Problems/63_Unique_Paths_II.py)
 - [64_Minimum_Path_Sum](../../Problems/64_Minimum_Path_Sum.py)
 - [73_Set_Matrix_Zeroes](../../Problems/73_Set_Matrix_Zeroes.py)

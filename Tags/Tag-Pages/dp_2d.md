@@ -1,9 +1,10 @@
 # Dp 2D
 
-**6 problems with this tag.**
+**7 problems with this tag.**
 
 ### Problems
 
+- [62. Unique Paths](../../Problems/62_Unique_Paths.py)
 - [63_Unique_Paths_II](../../Problems/63_Unique_Paths_II.py)
 - [64_Minimum_Path_Sum](../../Problems/64_Minimum_Path_Sum.py)
 - [72_Edit_Distance](../../Problems/72_Edit_Distance.py)

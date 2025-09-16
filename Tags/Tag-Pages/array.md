@@ -1,6 +1,6 @@
 # Array
 
-**165 problems with this tag.**
+**167 problems with this tag.**
 
 ### Problems
 
@@ -83,6 +83,7 @@
 - [641_Design_Circular_Deque](../../Problems/641_Design_Circular_Deque.py)
 - [643_Maximum_Average_Subarray_I](../../Problems/643_Maximum_Average_Subarray_I.py)
 - [649_Dota2_Senate](../../Problems/649_Dota2_Senate.py)
+- [714. Best Time to Buy and Sell Stock with Transaction Fee](../../Problems/714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.py)
 - [724_Find_Pivot_Index](../../Problems/724_Find_Pivot_Index.py)
 - [739_Daily_Temperatures](../../Problems/739_Daily_Temperatures.py)
 - [746_Min_Cost_Climbing_Stairs](../../Problems/746_Min_Cost_Climbing_Stairs.py)
@@ -130,6 +131,7 @@
 - [2130_Maximum_Twin_Sum_of_a_Linked_List](../../Problems/2130_Maximum_Twin_Sum_of_a_Linked_List.py)
 - [2131_Longest_Palindrome_by_Concatenating_Two_Letter_Words](../../Problems/2131_Longest_Palindrome_by_Concatenating_Two_Letter_Words.py)
 - [2161_Partition_Array_According_to_Given_Pivot](../../Problems/2161_Partition_Array_According_to_Given_Pivot.py)
+- [2197. Replace Non-Coprime Numbers in Array](../../Problems/2197_Replace_Non-Coprime_Numbers_in_Array.py)
 - [2210_Count_Hills_and_Valleys_in_an_Array](../../Problems/2210_Count_Hills_and_Valleys_in_an_Array.py)
 - [2215_Find_the_Difference_of_Two_Arrays](../../Problems/2215_Find_the_Difference_of_Two_Arrays.py)
 - [2275_Largest_Combination_With_Bitwise_AND_Greater_Than_Zero](../../Problems/2275_Largest_Combination_With_Bitwise_AND_Greater_Than_Zero.py)
