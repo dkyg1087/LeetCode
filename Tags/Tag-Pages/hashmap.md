@@ -1,6 +1,6 @@
 # Hashmap
 
-**34 problems with this tag.**
+**35 problems with this tag.**
 
 ### Problems
 
@@ -33,6 +33,7 @@
 - [2107_Number_of_Unique_Flavors_After_Sharing_K_Candies](../../Problems/2107_Number_of_Unique_Flavors_After_Sharing_K_Candies.py)
 - [2131_Longest_Palindrome_by_Concatenating_Two_Letter_Words](../../Problems/2131_Longest_Palindrome_by_Concatenating_Two_Letter_Words.py)
 - [2352_Equal_Row_and_Column_Pairs](../../Problems/2352_Equal_Row_and_Column_Pairs.py)
+- [2353. Design a Food Rating System](../../Problems/2353_Design_a_Food_Rating_System.py)
 - [2458_Height_of_Binary_Tree_After_Subtree_Removal_Queries](../../Problems/2458_Height_of_Binary_Tree_After_Subtree_Removal_Queries.py)
 - [2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K](../../Problems/2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K.py)
 - [2924_Find_Champion_II](../../Problems/2924_Find_Champion_II.py)

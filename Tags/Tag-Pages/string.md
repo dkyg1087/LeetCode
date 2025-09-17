@@ -1,6 +1,6 @@
 # String
 
-**49 problems with this tag.**
+**50 problems with this tag.**
 
 ### Problems
 
@@ -34,6 +34,7 @@
 - [796_Rotate_String](../../Problems/796_Rotate_String.py)
 - [1061_Lexicographically_Smallest_Equivalent_String](../../Problems/1061_Lexicographically_Smallest_Equivalent_String.py)
 - [1071_Greatest_Common_Divisor_of_Strings](../../Problems/1071_Greatest_Common_Divisor_of_Strings.py)
+- [1143. Longest Common Subsequence](../../Problems/1143_Longest_Common_Subsequence.py)
 - [1233_Remove_Sub-Folders_from_the_Filesystem](../../Problems/1233_Remove_Sub-Folders_from_the_Filesystem.py)
 - [1268_Search_Suggestions_System](../../Problems/1268_Search_Suggestions_System.py)
 - [1358_Number_of_Substrings_Containing_All_Three_Characters](../../Problems/1358_Number_of_Substrings_Containing_All_Three_Characters.py)

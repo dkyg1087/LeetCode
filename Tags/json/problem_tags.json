@@ -788,6 +788,10 @@
         "math",
         "dp_1d"
     ],
+    "1143_Longest_Common_Subsequence.py": [
+        "dp_2d",
+        "string"
+    ],
     "1161_Maximum_Level_Sum_of_a_Binary_Tree.py": [
         "binary_tree",
         "depth_first_search",
@@ -1051,6 +1055,12 @@
         "hashmap",
         "matrix",
         "counting"
+    ],
+    "2353_Design_a_Food_Rating_System.py": [
+        "hashmap",
+        "heap",
+        "design",
+        "implementation"
     ],
     "2410_Maximum_Matching_of_Players_With_Trainers.py": [
         "array",
