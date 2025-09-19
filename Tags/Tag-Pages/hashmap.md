@@ -1,6 +1,6 @@
 # Hashmap
 
-**35 problems with this tag.**
+**36 problems with this tag.**
 
 ### Problems
 
@@ -38,4 +38,5 @@
 - [2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K](../../Problems/2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K.py)
 - [2924_Find_Champion_II](../../Problems/2924_Find_Champion_II.py)
 - [3306_Count_of_Substrings_Containing_Every_Vowel_and_K_Consonants_II](../../Problems/3306_Count_of_Substrings_Containing_Every_Vowel_and_K_Consonants_II.py)
+- [3408. Design Task Manager](../../Problems/3408_Design_Task_Manager.py)
 - [3442_Maximum_Difference_Between_Even_and_Odd_Frequency_I](../../Problems/3442_Maximum_Difference_Between_Even_and_Odd_Frequency_I.py)

@@ -1,6 +1,6 @@
 # Design
 
-**10 problems with this tag.**
+**12 problems with this tag.**
 
 ### Problems
 
@@ -14,3 +14,5 @@
 - [1429_First_Unique_Number](../../Problems/1429_First_Unique_Number.py)
 - [2336. Smallest Number in Infinite Set](../../Problems/2336_Smallest_Number_in_Infinite_Set.py)
 - [2353. Design a Food Rating System](../../Problems/2353_Design_a_Food_Rating_System.py)
+- [3408. Design Task Manager](../../Problems/3408_Design_Task_Manager.py)
+- [3484. Design Spreadsheet](../../Problems/3484_Design_Spreadsheet.py)

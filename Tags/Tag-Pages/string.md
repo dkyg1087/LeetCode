@@ -1,6 +1,6 @@
 # String
 
-**50 problems with this tag.**
+**51 problems with this tag.**
 
 ### Problems
 
@@ -54,3 +54,4 @@
 - [3335_Tota_Characters_in_String_After_Transformations_I](../../Problems/3335_Tota_Characters_in_String_After_Transformations_I.py)
 - [3403_Find_the_Lexicographically_Largest_String_From_the_Box_I](../../Problems/3403_Find_the_Lexicographically_Largest_String_From_the_Box_I.py)
 - [3442_Maximum_Difference_Between_Even_and_Odd_Frequency_I](../../Problems/3442_Maximum_Difference_Between_Even_and_Odd_Frequency_I.py)
+- [3484. Design Spreadsheet](../../Problems/3484_Design_Spreadsheet.py)

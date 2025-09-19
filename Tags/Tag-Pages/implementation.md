@@ -1,6 +1,6 @@
 # Implementation
 
-**11 problems with this tag.**
+**13 problems with this tag.**
 
 ### Problems
 
@@ -15,3 +15,5 @@
 - [1429_First_Unique_Number](../../Problems/1429_First_Unique_Number.py)
 - [1935. Maximum Number of Words You Can Type](../../Problems/1935_Maximum_Number_of_Words_You_Can_Type.py)
 - [2353. Design a Food Rating System](../../Problems/2353_Design_a_Food_Rating_System.py)
+- [3408. Design Task Manager](../../Problems/3408_Design_Task_Manager.py)
+- [3484. Design Spreadsheet](../../Problems/3484_Design_Spreadsheet.py)

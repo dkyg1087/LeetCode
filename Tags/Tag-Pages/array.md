@@ -1,6 +1,6 @@
 # Array
 
-**167 problems with this tag.**
+**168 problems with this tag.**
 
 ### Problems
 
@@ -170,3 +170,4 @@
 - [3355_Zero_Array_Transformation_I](../../Problems/3355_Zero_Array_Transformation_I.py)
 - [3442_Maximum_Difference_Between_Even_and_Odd_Frequency_I](../../Problems/3442_Maximum_Difference_Between_Even_and_Odd_Frequency_I.py)
 - [3477. Fruits Into Baskets II](../../Problems/3477_Fruits_Into_Baskets_II.py)
+- [3484. Design Spreadsheet](../../Problems/3484_Design_Spreadsheet.py)

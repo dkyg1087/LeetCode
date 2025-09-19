@@ -1267,6 +1267,12 @@
         "string",
         "greedy"
     ],
+    "3408_Design_Task_Manager.py": [
+        "heap",
+        "hashmap",
+        "design",
+        "implementation"
+    ],
     "3442_Maximum_Difference_Between_Even_and_Odd_Frequency_I.py": [
         "array",
         "string",
@@ -1277,5 +1283,11 @@
     "3477_Fruits_Into_Baskets_II.py": [
         "array",
         "simulation"
+    ],
+    "3484_Design_Spreadsheet.py": [
+        "design",
+        "implementation",
+        "array",
+        "string"
     ]
 }
