@@ -1,6 +1,6 @@
 # Math
 
-**25 problems with this tag.**
+**26 problems with this tag.**
 
 ### Problems
 
@@ -21,6 +21,7 @@
 - [875. Koko Eating Bananas](../../Problems/875_Koko_Eating_Bananas.py)
 - [1071_Greatest_Common_Divisor_of_Strings](../../Problems/1071_Greatest_Common_Divisor_of_Strings.py)
 - [1137_N-th_Tribonacci_Number](../../Problems/1137_N-th_Tribonacci_Number.py)
+- [1518. Water Bottles](../../Problems/1518_Water_Bottles.py)
 - [1780_Check_if_Number_is_a_Sum_of_Powers_of_Three](../../Problems/1780_Check_if_Number_is_a_Sum_of_Powers_of_Three.py)
 - [1975_Maximum_Matrix_Sum](../../Problems/1975_Maximum_Matrix_Sum.py)
 - [2064_Minimized_Maximum_of_Products_Distributed_to_Any_Store](../../Problems/2064_Minimized_Maximum_of_Products_Distributed_to_Any_Store.py)

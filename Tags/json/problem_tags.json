@@ -906,6 +906,11 @@
         "sliding_window",
         "two_pointers"
     ],
+    "1518_Water_Bottles.py": [
+        "simulation",
+        "math",
+        "greedy"
+    ],
     "1524_Number_of_Sub-arrays_With_Odd_Sum.py": [
         "array",
         "prefix_sum",

@@ -1,6 +1,6 @@
 # Greedy
 
-**73 problems with this tag.**
+**74 problems with this tag.**
 
 ### Problems
 
@@ -41,6 +41,7 @@
 - [1431_Kids_With_the_Greatest_Number_of_Candies](../../Problems/1431_Kids_With_the_Greatest_Number_of_Candies.py)
 - [1456_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length](../../Problems/1456_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.py)
 - [1493_Longest_Subarray_of_1's_After_Deleting_One_Element](../../Problems/1493_Longest_Subarray_of_1's_After_Deleting_One_Element.py)
+- [1518. Water Bottles](../../Problems/1518_Water_Bottles.py)
 - [1550_Three_Consecutive_Odds](../../Problems/1550_Three_Consecutive_Odds.py)
 - [1574_Shortest_Subarray_to_be_Removed_to_Make_Array_Sorted](../../Problems/1574_Shortest_Subarray_to_be_Removed_to_Make_Array_Sorted.py)
 - [1679_Max_Number_of_K-Sum_Pairs](../../Problems/1679_Max_Number_of_K-Sum_Pairs.py)
