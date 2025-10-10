@@ -1,6 +1,6 @@
 # Array
 
-**168 problems with this tag.**
+**169 problems with this tag.**
 
 ### Problems
 
@@ -158,6 +158,7 @@
 - [3011_Find_if_Array_Can_Be_Sorted](../../Problems/3011_Find_if_Array_Can_Be_Sorted.py)
 - [3097_Shortest_Subarray_With_OR_at_Least_K_II](../../Problems/3097_Shortest_Subarray_With_OR_at_Least_K_II.py)
 - [3133_Minimum_Array_End](../../Problems/3133_Minimum_Array_End.py)
+- [3147. Taking Maximum Energy From the Mystic Dungeon](../../Problems/3147_Taking_Maximum_Energy_From_the_Mystic_Dungeon.py)
 - [3163_String_Compression_III](../../Problems/3163_String_Compression_III.py)
 - [3201_Find_the_Maximum_Length_of_Valid_Subsequence_I](../../Problems/3201_Find_the_Maximum_Length_of_Valid_Subsequence_I.py)
 - [3243_Shortest_Distance_After_Road_Addition_Queries_I](../../Problems/3243_Shortest_Distance_After_Road_Addition_Queries_I.py)

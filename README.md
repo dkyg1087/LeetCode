@@ -1,6 +1,6 @@
 # LeetCode
 
-**Total Problems Solved: 246**
+**Total Problems Solved: 247**
 
 This repository contains my personal LeetCode problem solutions, organized by tags.
 
